@@ -1,0 +1,1302 @@
+[
+  {
+    "id": "76efa1b4-8782-4fb5-9c8c-ad40d86418e0",
+    "firstName": "Ákos",
+    "lastName": "Dombi",
+    "fullName": "Ákos Dombi",
+    "bio": "Staff Software Engineer at Cision, excels in cloud-native solutions. He actively participates in the tech meetups and presenting at local meetups. Passionate about efficiency, he drives innovation and shares his expertise with the community.",
+    "tagLine": "Staff Software Engineer: Passionate Tech Enthusiast",
+    "profilePicture": "https://cdn.sessionize.com/image/145a-400o400o1-EEhEGnYRjKHWV51HND3ouE.jpg",
+    "sessions": [
+      {
+        "id": 866794,
+        "name": "Escape from Serverless Vendor Lock-in"
+      }
+    ],
+    "isTopSpeaker": false,
+    "links": [],
+    "questionAnswers": [
+      {
+        "id": 90750,
+        "question": "Job Title",
+        "questionType": "Short_Text",
+        "answer": "Staff Software Engineer",
+        "sort": 28,
+        "answerExtra": null
+      },
+      {
+        "id": 90751,
+        "question": "Company",
+        "questionType": "Short_Text",
+        "answer": "Cision",
+        "sort": 29,
+        "answerExtra": null
+      },
+      {
+        "id": 90808,
+        "question": "Linkedin",
+        "questionType": "Short_Text",
+        "answer": null,
+        "sort": 30,
+        "answerExtra": null
+      },
+      {
+        "id": 143680,
+        "question": "Test speaker file",
+        "questionType": "File_upload",
+        "answer": null,
+        "sort": 72,
+        "answerExtra": null
+      }
+    ],
+    "categories": []
+  },
+  {
+    "id": "ff8642ba-f94c-4640-8a8c-7d4cc3e1cb9d",
+    "firstName": "Bence",
+    "lastName": "Csati",
+    "fullName": "Bence Csati",
+    "bio": "Passionate Software Engineer who loves building reliable systems and actively engages with the cloud-native community to advance Kubernetes security and observability. Maintainer of multiple CNCF sandbox projects, including Bank-Vaults, which is a project dedicated to simplifying the complex world of secret management.\r\nThe Logging operator, which solves logging-related problems in Kubernetes environments.\r\n\r\nCurrently, working on the Logging operator and the new Telemetry controller at Axoflow.\r\n",
+    "tagLine": "Bence Csáti, Axoflow",
+    "profilePicture": "https://cdn.sessionize.com/image/b244-400o400o1-DHHuMznF24tAKpkW5jt8rU.png",
+    "sessions": [
+      {
+        "id": 860568,
+        "name": "Kubernetes logging: to infinity and beyond"
+      }
+    ],
+    "isTopSpeaker": false,
+    "links": [],
+    "questionAnswers": [
+      {
+        "id": 90750,
+        "question": "Job Title",
+        "questionType": "Short_Text",
+        "answer": "Software Engineer",
+        "sort": 28,
+        "answerExtra": null
+      },
+      {
+        "id": 90751,
+        "question": "Company",
+        "questionType": "Short_Text",
+        "answer": "Axoflow Zrt.",
+        "sort": 29,
+        "answerExtra": null
+      },
+      {
+        "id": 90808,
+        "question": "Linkedin",
+        "questionType": "Short_Text",
+        "answer": "https://www.linkedin.com/in/bence-cs%C3%A1ti-b15350275/",
+        "sort": 30,
+        "answerExtra": null
+      },
+      {
+        "id": 143680,
+        "question": "Test speaker file",
+        "questionType": "File_upload",
+        "answer": null,
+        "sort": 72,
+        "answerExtra": null
+      }
+    ],
+    "categories": []
+  },
+  {
+    "id": "234b8cfa-3339-4e73-86f4-c674623eb264",
+    "firstName": "Dániel",
+    "lastName": "Mohácsi",
+    "fullName": "Dániel Mohácsi",
+    "bio": "With over 16 years of experience in various Software Engineering roles, I am a passionate advocate for cloud-native technologies and an active supporter of the CNCF ecosystem. For the past decade, I have been evangelizing best practices in containerization, CI/CD, orchestration, and observability, helping teams build scalable, resilient, and efficient cloud-native systems. Currently, I work at Origoss Solutions as a Cloud Native Expert, where I focus on driving innovation and enabling organizations to harness the full potential of modern cloud technologies.",
+    "tagLine": "Origoss Solutions, Cloud Native Expert",
+    "profilePicture": "https://cdn.sessionize.com/image/f09b-400o400o1-Ktzrgt5ubRrX1Z3AsuQzz.jpg",
+    "sessions": [
+      {
+        "id": 866240,
+        "name": "Beyond Functionality: Performance Testing with Grafana k6"
+      }
+    ],
+    "isTopSpeaker": false,
+    "links": [],
+    "questionAnswers": [
+      {
+        "id": 90750,
+        "question": "Job Title",
+        "questionType": "Short_Text",
+        "answer": "Cloud Native Expert",
+        "sort": 28,
+        "answerExtra": null
+      },
+      {
+        "id": 90751,
+        "question": "Company",
+        "questionType": "Short_Text",
+        "answer": "Origoss Solutions",
+        "sort": 29,
+        "answerExtra": null
+      },
+      {
+        "id": 90808,
+        "question": "Linkedin",
+        "questionType": "Short_Text",
+        "answer": "https://www.linkedin.com/in/dani-mohacsi/",
+        "sort": 30,
+        "answerExtra": null
+      },
+      {
+        "id": 143680,
+        "question": "Test speaker file",
+        "questionType": "File_upload",
+        "answer": null,
+        "sort": 72,
+        "answerExtra": null
+      }
+    ],
+    "categories": []
+  },
+  {
+    "id": "b51b244c-6569-483c-a65b-13b7474ab936",
+    "firstName": "Dominik",
+    "lastName": "Táskai",
+    "fullName": "Dominik Táskai",
+    "bio": "DevOps Engineer/Solutions Architect with a focus on driving impactful solutions in cloud environments. Specializing in data solutions development using AWS services. Currently contributing expertise to enhance efficiency and scalability.\r\n\r\nAlso an OSS enthusiast, committed to contributing to and promoting OSS projects. I believe in community-driven development and collaboration to create innovative solutions.",
+    "tagLine": "DevOps Engineer @ adesso Hungary",
+    "profilePicture": "https://cdn.sessionize.com/image/bcaf-400o400o1-T6vpxFSxwUxFoWRLMdShVP.jpg",
+    "sessions": [
+      {
+        "id": 829495,
+        "name": "A Guide to gRPC Request-based Load Balancing"
+      }
+    ],
+    "isTopSpeaker": false,
+    "links": [],
+    "questionAnswers": [
+      {
+        "id": 90750,
+        "question": "Job Title",
+        "questionType": "Short_Text",
+        "answer": "DevOps Engineer",
+        "sort": 28,
+        "answerExtra": null
+      },
+      {
+        "id": 90751,
+        "question": "Company",
+        "questionType": "Short_Text",
+        "answer": "adesso Hungary",
+        "sort": 29,
+        "answerExtra": null
+      },
+      {
+        "id": 90808,
+        "question": "Linkedin",
+        "questionType": "Short_Text",
+        "answer": "https://www.linkedin.com/in/dtaskai/",
+        "sort": 30,
+        "answerExtra": null
+      },
+      {
+        "id": 143680,
+        "question": "Test speaker file",
+        "questionType": "File_upload",
+        "answer": null,
+        "sort": 72,
+        "answerExtra": null
+      }
+    ],
+    "categories": []
+  },
+  {
+    "id": "2975aa04-15d6-4fba-b39e-ba82fc78618a",
+    "firstName": "Erwin",
+    "lastName": "de Keijzer",
+    "fullName": "Erwin de Keijzer",
+    "bio": "By day Erwin is a DevOps engineer at TrueFullstaq, consulting companies on how to best implement cloud native principles on the public cloud and how to develop applications to fully embrace what new technologies can offer.\r\nAt night he turns into a chindōgu engineer (look it up on wikipedia, it's awesome). Tinkering with stuff like adding music to his home elevator or connecting his garage door to the internet.\r\nHis presentations always come with a dose of humor and self-deprecation. And if it all works out, you'll learn something too.",
+    "tagLine": "DevOps Engineer at Fullstaq, chindōgu Engineer at home",
+    "profilePicture": "https://cdn.sessionize.com/image/0bd1-400o400o1-Pq5LipoefNFttuikKR48Qj.jpg",
+    "sessions": [
+      {
+        "id": 868645,
+        "name": "Using k9s for maximum efficiency"
+      }
+    ],
+    "isTopSpeaker": false,
+    "links": [],
+    "questionAnswers": [
+      {
+        "id": 90750,
+        "question": "Job Title",
+        "questionType": "Short_Text",
+        "answer": "DevOps Engineer",
+        "sort": 28,
+        "answerExtra": null
+      },
+      {
+        "id": 90751,
+        "question": "Company",
+        "questionType": "Short_Text",
+        "answer": "TrueFullstaq",
+        "sort": 29,
+        "answerExtra": null
+      },
+      {
+        "id": 90808,
+        "question": "Linkedin",
+        "questionType": "Short_Text",
+        "answer": null,
+        "sort": 30,
+        "answerExtra": null
+      },
+      {
+        "id": 143680,
+        "question": "Test speaker file",
+        "questionType": "File_upload",
+        "answer": null,
+        "sort": 72,
+        "answerExtra": null
+      }
+    ],
+    "categories": []
+  },
+  {
+    "id": "fc6e230e-5fee-4b4c-b2dd-5cd06ec0a021",
+    "firstName": "Gábor",
+    "lastName": "Lovass",
+    "fullName": "Gábor Lovass",
+    "bio": "Experienced full-stack software engineer with a backend focus and over five years of professional experience. Strong background in Python, Java, JavaScript, and cloud-native technologies, with expertise in machine learning, data science, and deployment of large language models (LLMs).",
+    "tagLine": "Software Development Engineer at Altair",
+    "profilePicture": "https://cdn.sessionize.com/image/f7b4-400o400o1-4Tc6RLkim7t4iqabbqYPNr.jpg",
+    "sessions": [
+      {
+        "id": 863256,
+        "name": "Model inferencing on Kubernetes with KServe"
+      }
+    ],
+    "isTopSpeaker": false,
+    "links": [],
+    "questionAnswers": [
+      {
+        "id": 90750,
+        "question": "Job Title",
+        "questionType": "Short_Text",
+        "answer": "Software Development Engineer",
+        "sort": 28,
+        "answerExtra": null
+      },
+      {
+        "id": 90751,
+        "question": "Company",
+        "questionType": "Short_Text",
+        "answer": "Altair",
+        "sort": 29,
+        "answerExtra": null
+      },
+      {
+        "id": 90808,
+        "question": "Linkedin",
+        "questionType": "Short_Text",
+        "answer": "https://www.linkedin.com/company/altair-engineering",
+        "sort": 30,
+        "answerExtra": null
+      },
+      {
+        "id": 143680,
+        "question": "Test speaker file",
+        "questionType": "File_upload",
+        "answer": null,
+        "sort": 72,
+        "answerExtra": null
+      }
+    ],
+    "categories": []
+  },
+  {
+    "id": "e3d59997-3f6f-4603-a5be-f12a833cbbdc",
+    "firstName": "Gergely",
+    "lastName": "Brautigam",
+    "fullName": "Gergely Brautigam",
+    "bio": "Around 2016 Gergely began his journey in the land of Go, and gradually wrote project after project after project to explore this language and its capabilities. In his own time, he started to look for various projects he could contribute to in order to develop his understanding of the language. That's when he became a maintainer for Gaia, CAPA and External Secrets and lastly, the Go language itself. ",
+    "tagLine": "Software Engineer at Kubermatic",
+    "profilePicture": "https://cdn.sessionize.com/image/8500-400o400o1-X5wcoKJ88symXML81nWpMB.png",
+    "sessions": [
+      {
+        "id": 831948,
+        "name": "Secret Rotation with External Secrets Operator"
+      }
+    ],
+    "isTopSpeaker": false,
+    "links": [],
+    "questionAnswers": [
+      {
+        "id": 90750,
+        "question": "Job Title",
+        "questionType": "Short_Text",
+        "answer": "Software Engineer",
+        "sort": 28,
+        "answerExtra": null
+      },
+      {
+        "id": 90751,
+        "question": "Company",
+        "questionType": "Short_Text",
+        "answer": "Kubermatic",
+        "sort": 29,
+        "answerExtra": null
+      },
+      {
+        "id": 90808,
+        "question": "Linkedin",
+        "questionType": "Short_Text",
+        "answer": null,
+        "sort": 30,
+        "answerExtra": null
+      },
+      {
+        "id": 143680,
+        "question": "Test speaker file",
+        "questionType": "File_upload",
+        "answer": null,
+        "sort": 72,
+        "answerExtra": null
+      }
+    ],
+    "categories": []
+  },
+  {
+    "id": "8c1601bf-ae06-4f1a-ba4e-77439e6db097",
+    "firstName": "Gergely",
+    "lastName": "Daroczi",
+    "fullName": "Gergely Daroczi",
+    "bio": "Gergely Daroczi, PhD, is a passionate R user and package developer for two decades. With over 15 years in the industry, he has expertise in data science, engineering, cloud infrastructure, and data operations across SaaS, fintech, adtech, and healthtech startups in California and Hungary, focusing on building scalable data platforms. Gergely maintains a dozen open-source R and Python projects and organizes a tech meetup with 1,800 members in Hungary – along with other open-source and data conferences.",
+    "tagLine": "Spare Cores, Project Lead",
+    "profilePicture": "https://cdn.sessionize.com/image/2ad6-400o400o1-SRLEsop2AeoTomsKQKR1Ar.jpg",
+    "sessions": [
+      {
+        "id": 860593,
+        "name": "Starting 2000 Cloud Servers for Benchmarking LLM Inference Speed"
+      }
+    ],
+    "isTopSpeaker": false,
+    "links": [],
+    "questionAnswers": [
+      {
+        "id": 90750,
+        "question": "Job Title",
+        "questionType": "Short_Text",
+        "answer": "Project Lead",
+        "sort": 28,
+        "answerExtra": null
+      },
+      {
+        "id": 90751,
+        "question": "Company",
+        "questionType": "Short_Text",
+        "answer": "Spare Cores",
+        "sort": 29,
+        "answerExtra": null
+      },
+      {
+        "id": 90808,
+        "question": "Linkedin",
+        "questionType": "Short_Text",
+        "answer": "https://www.linkedin.com/in/daroczig/",
+        "sort": 30,
+        "answerExtra": null
+      },
+      {
+        "id": 143680,
+        "question": "Test speaker file",
+        "questionType": "File_upload",
+        "answer": null,
+        "sort": 72,
+        "answerExtra": null
+      }
+    ],
+    "categories": []
+  },
+  {
+    "id": "f6aa8e0d-621a-4621-af59-5d5041623c29",
+    "firstName": "Gergő",
+    "lastName": "Huszty",
+    "fullName": "Gergő Huszty",
+    "bio": "Gergo spent a decade in the telecommunications industry where he worked on developing carrier grade cloud infrastructures, including early versions of Kubernetes. With that he joined IBM to work on the IBM Kubernetes and Openshift Service, more than five years ago. Gergo had a bunch of talks on Hungarian meetups about both corporate and open-source projects. Once he contributed one character to the Linux kernel. :-)\r\n\r\n",
+    "tagLine": "Software architect, IBM",
+    "profilePicture": "https://cdn.sessionize.com/image/b5d4-400o400o1-0d-621a-4621-af59-5d5041623c29.01f1ed7a-4be0-4511-b07d-40a8f08d3279.jpg",
+    "sessions": [
+      {
+        "id": 864154,
+        "name": "Let's create a managed Kubernetes as a service at scale."
+      }
+    ],
+    "isTopSpeaker": false,
+    "links": [],
+    "questionAnswers": [
+      {
+        "id": 90750,
+        "question": "Job Title",
+        "questionType": "Short_Text",
+        "answer": "Software architect",
+        "sort": 28,
+        "answerExtra": null
+      },
+      {
+        "id": 90751,
+        "question": "Company",
+        "questionType": "Short_Text",
+        "answer": "IBM",
+        "sort": 29,
+        "answerExtra": null
+      },
+      {
+        "id": 90808,
+        "question": "Linkedin",
+        "questionType": "Short_Text",
+        "answer": null,
+        "sort": 30,
+        "answerExtra": null
+      },
+      {
+        "id": 143680,
+        "question": "Test speaker file",
+        "questionType": "File_upload",
+        "answer": null,
+        "sort": 72,
+        "answerExtra": null
+      }
+    ],
+    "categories": []
+  },
+  {
+    "id": "9d8a7f7c-68fd-4855-bcf9-881c24af40ee",
+    "firstName": "Henrik",
+    "lastName": "Rexed",
+    "fullName": "Henrik Rexed",
+    "bio": "Henrik is a Cloud Native Advocate at Dynatrace, the leading Observability platform. Prior to Dynatrace, Henrik has worked more than 15 years, as Performance Engineer. Henrik Rexed Is Also one of the Organizer of the conferences named WOPR, KCD Austria and the owner of the Youtube Channel IsitObservable.",
+    "tagLine": "Dynatrace Cloud Native Advocate",
+    "profilePicture": "https://cdn.sessionize.com/image/7196-400o400o1-Mc3SUXf1aeqQkPnEDQQfB2.png",
+    "sessions": [
+      {
+        "id": 838919,
+        "name": "What agent to trust with your k8s: Falco, Tetragon or KubeArmor?"
+      }
+    ],
+    "isTopSpeaker": false,
+    "links": [],
+    "questionAnswers": [
+      {
+        "id": 90750,
+        "question": "Job Title",
+        "questionType": "Short_Text",
+        "answer": "CNCF Ambassador",
+        "sort": 28,
+        "answerExtra": null
+      },
+      {
+        "id": 90751,
+        "question": "Company",
+        "questionType": "Short_Text",
+        "answer": "Dynatrace",
+        "sort": 29,
+        "answerExtra": null
+      },
+      {
+        "id": 90808,
+        "question": "Linkedin",
+        "questionType": "Short_Text",
+        "answer": "https://www.linkedin.com/in/hrexed/",
+        "sort": 30,
+        "answerExtra": null
+      },
+      {
+        "id": 143680,
+        "question": "Test speaker file",
+        "questionType": "File_upload",
+        "answer": null,
+        "sort": 72,
+        "answerExtra": null
+      }
+    ],
+    "categories": []
+  },
+  {
+    "id": "c1e3a488-2ca2-4299-936d-26e91b7013a6",
+    "firstName": "Janos",
+    "lastName": "Binder",
+    "fullName": "Janos Binder",
+    "bio": "Janos is a seasoned leader with over 15 years of experience in multinational environments, adept at managing global teams and projects. He has collaborated with professionals from more than 50 nationalities and brings deep expertise in developing enterprise software and CI/CD pipelines across various cloud platforms. Holding a PhD in Bioinformatics, Janos balances his technical prowess with a passion for Brazilian jiu-jitsu and quality time with his daughters.",
+    "tagLine": "SAP SE, Staff Engineer at AI Core",
+    "profilePicture": "https://cdn.sessionize.com/image/09c1-400o400o1-XM3DetbKW5vvHCpQzXRFQo.jpg",
+    "sessions": [
+      {
+        "id": 855661,
+        "name": "Keeping Kubernetes Clusters Up-to-Date Across Multiple Cloud Providers"
+      }
+    ],
+    "isTopSpeaker": false,
+    "links": [],
+    "questionAnswers": [
+      {
+        "id": 90750,
+        "question": "Job Title",
+        "questionType": "Short_Text",
+        "answer": "Development Expert",
+        "sort": 28,
+        "answerExtra": null
+      },
+      {
+        "id": 90751,
+        "question": "Company",
+        "questionType": "Short_Text",
+        "answer": "SAP Se",
+        "sort": 29,
+        "answerExtra": null
+      },
+      {
+        "id": 90808,
+        "question": "Linkedin",
+        "questionType": "Short_Text",
+        "answer": null,
+        "sort": 30,
+        "answerExtra": null
+      },
+      {
+        "id": 143680,
+        "question": "Test speaker file",
+        "questionType": "File_upload",
+        "answer": null,
+        "sort": 72,
+        "answerExtra": null
+      }
+    ],
+    "categories": []
+  },
+  {
+    "id": "d3d8fe2f-75b5-49ed-9acd-df685492e32c",
+    "firstName": "Josephine",
+    "lastName": "Pfeiffer",
+    "fullName": "Josephine Pfeiffer",
+    "bio": "Josephine is a consultant specializing in developer productivity and infrastructure. She has worked for enterprises, SMEs, and startups in roles spanning platform engineering, DevOps, Site Reliability Engineering, and technology management.\r\n\r\nShe is an active open-source contributor, contributing to Kubernetes-related projects such as Backstage and Kube-burner. Josephine has shared her expertise at several conferences, including BSides Bristol, Kubernetes Community Days Zurich Rejects, and Uphill Conf.",
+    "tagLine": "Senior Cloud Native Consultant, Red Hat",
+    "profilePicture": "https://cdn.sessionize.com/image/24d7-400o400o1-RA9di5fQr9LyDEhc7ekzqB.jpg",
+    "sessions": [
+      {
+        "id": 856536,
+        "name": "Mainframes Aren’t Dead, They’re Just Running Kubernetes Now"
+      }
+    ],
+    "isTopSpeaker": false,
+    "links": [],
+    "questionAnswers": [
+      {
+        "id": 90750,
+        "question": "Job Title",
+        "questionType": "Short_Text",
+        "answer": "Senior Cloud Native Consultant",
+        "sort": 28,
+        "answerExtra": null
+      },
+      {
+        "id": 90751,
+        "question": "Company",
+        "questionType": "Short_Text",
+        "answer": "Red Hat",
+        "sort": 29,
+        "answerExtra": null
+      },
+      {
+        "id": 90808,
+        "question": "Linkedin",
+        "questionType": "Short_Text",
+        "answer": null,
+        "sort": 30,
+        "answerExtra": null
+      },
+      {
+        "id": 143680,
+        "question": "Test speaker file",
+        "questionType": "File_upload",
+        "answer": null,
+        "sort": 72,
+        "answerExtra": null
+      }
+    ],
+    "categories": []
+  },
+  {
+    "id": "3a3764a1-7dfb-4ee5-8306-f2173fd9e606",
+    "firstName": "Kasper",
+    "lastName": "Borg Nissen",
+    "fullName": "Kasper Borg Nissen",
+    "bio": "Kasper is a CNCF Ambassador, KubeCon+CloudNativeCon Co-Chair, Kubestronaut, KCD Organizer, and CNCG Group Organizer. He co-founded Cloud Native Nordics to unite meetups across the region. As a Developer Relations Engineer at Dash0, he helps make observability easy for developers by advocating for better tooling, best practices, and seamless integrations. Bridging observability and platform engineering, he ensures developers stay productive and gain actionable insights exactly when needed.",
+    "tagLine": "Developer Relations at Dash0, Co-Chair KubeCon+CloudNativeCon EU/NA, CNCF Ambassador, Kubestronaut, KCD Organizer, Meet-up organizer ",
+    "profilePicture": "https://cdn.sessionize.com/image/fe2c-400o400o1-Tqqw1ZtsMTx34saGpCwra9.jpg",
+    "sessions": [
+      {
+        "id": 880007,
+        "name": "From Signals to Standards: Unifying Platform Engineering and Observability"
+      }
+    ],
+    "isTopSpeaker": false,
+    "links": [],
+    "questionAnswers": [
+      {
+        "id": 90750,
+        "question": "Job Title",
+        "questionType": "Short_Text",
+        "answer": "Developer Relations",
+        "sort": 28,
+        "answerExtra": null
+      },
+      {
+        "id": 90751,
+        "question": "Company",
+        "questionType": "Short_Text",
+        "answer": "Dash0",
+        "sort": 29,
+        "answerExtra": null
+      },
+      {
+        "id": 90808,
+        "question": "Linkedin",
+        "questionType": "Short_Text",
+        "answer": "https://www.linkedin.com/in/kaspernissen/",
+        "sort": 30,
+        "answerExtra": null
+      },
+      {
+        "id": 143680,
+        "question": "Test speaker file",
+        "questionType": "File_upload",
+        "answer": null,
+        "sort": 72,
+        "answerExtra": null
+      }
+    ],
+    "categories": []
+  },
+  {
+    "id": "d4417e89-bb8b-4bc5-b56b-def94c6a45fc",
+    "firstName": "Kristóf",
+    "lastName": "Nyári",
+    "fullName": "Kristóf Nyári",
+    "bio": "Kristóf is a Cloud & DevOps Engineer who values innovation, dedication and excellence. He currently works at Deutsche Telekom IT Solutions HU on an international project with a diverse, multinational team, where he manages and implements features in a fully Cloud Native infrastructure ensuring optimal workload balancing, resiliency and cost efficiency. \r\n\r\nHis interest with the new wave of Big Data and AI has lead him to dive deep into the world of said topics, gaining and transferring as much knowledge as possible.\r\n\r\nTo aid his career, Kristóf has done and is currently in the process of completing several certifications, such as CKA, CKS, AWS Soultions Architect and AWS Data Engineer. He is actively looking to participate in community events, mainly about AWS or Cloud Native Technologies",
+    "tagLine": "DevOps Engineer @ Deutsche Telekom IT Solutions HU",
+    "profilePicture": "https://cdn.sessionize.com/image/b813-400o400o1-afViLKVRQ9MPV87rENHGr3.jpg",
+    "sessions": [
+      {
+        "id": 842899,
+        "name": "Transforming the idea of multitenancy in Kubernetes"
+      }
+    ],
+    "isTopSpeaker": false,
+    "links": [],
+    "questionAnswers": [
+      {
+        "id": 90750,
+        "question": "Job Title",
+        "questionType": "Short_Text",
+        "answer": "Senior DevOps Engineer",
+        "sort": 28,
+        "answerExtra": null
+      },
+      {
+        "id": 90751,
+        "question": "Company",
+        "questionType": "Short_Text",
+        "answer": "Deutsche Telekom IT Solutions HU",
+        "sort": 29,
+        "answerExtra": null
+      },
+      {
+        "id": 90808,
+        "question": "Linkedin",
+        "questionType": "Short_Text",
+        "answer": "https://www.linkedin.com/in/kristof-nyr",
+        "sort": 30,
+        "answerExtra": null
+      },
+      {
+        "id": 143680,
+        "question": "Test speaker file",
+        "questionType": "File_upload",
+        "answer": null,
+        "sort": 72,
+        "answerExtra": null
+      }
+    ],
+    "categories": []
+  },
+  {
+    "id": "5a7c0b0c-2ebd-45e3-98ee-50696cadb9cb",
+    "firstName": "Marcell",
+    "lastName": "Bene",
+    "fullName": "Marcell Bene",
+    "bio": "Marcell Bene is a DevOps Engineer at adesso Hungary, specializing in Azure, Google Cloud, and Kubernetes. With a strong background in full-stack development, he focuses on building scalable, cloud-native infrastructures and implementing CI/CD pipelines using tools like Helm and Flux. Marcell is passionate about microservices architecture and container orchestration, leveraging modern DevOps practices to optimize workflows and enhance system reliability.",
+    "tagLine": "DevOps Engineer @ adesso Hungary",
+    "profilePicture": null,
+    "sessions": [
+      {
+        "id": 863515,
+        "name": "Rethinking Multi-Tenant Architectures with Kubernetes and Traefik"
+      }
+    ],
+    "isTopSpeaker": false,
+    "links": [],
+    "questionAnswers": [
+      {
+        "id": 90750,
+        "question": "Job Title",
+        "questionType": "Short_Text",
+        "answer": "DevOps Engineer",
+        "sort": 28,
+        "answerExtra": null
+      },
+      {
+        "id": 90751,
+        "question": "Company",
+        "questionType": "Short_Text",
+        "answer": "adesso Hungary",
+        "sort": 29,
+        "answerExtra": null
+      },
+      {
+        "id": 90808,
+        "question": "Linkedin",
+        "questionType": "Short_Text",
+        "answer": "https://www.linkedin.com/in/marcellbene/",
+        "sort": 30,
+        "answerExtra": null
+      },
+      {
+        "id": 143680,
+        "question": "Test speaker file",
+        "questionType": "File_upload",
+        "answer": null,
+        "sort": 72,
+        "answerExtra": null
+      }
+    ],
+    "categories": []
+  },
+  {
+    "id": "b44f65fd-6449-47e4-a00f-2b308ec3e8bf",
+    "firstName": "Marcus",
+    "lastName": "Noble",
+    "fullName": "Marcus Noble",
+    "bio": "Marcus is a platform engineer at Giant Swarm, a company dedicated to offering managed Kubernetes solutions. His main area of focus in recent years has been around Go, Kubernetes, containers and DevOps but originally started out as a web developer and JavaScript enthusiast. A self-described “tinkerer”, when not building Kubernetes solutions, Marcus likes to dabble with 3D printing and experimenting with smart home tech.\r\n\r\n",
+    "tagLine": "Platform Engineer @ Giant Swarm",
+    "profilePicture": "https://cdn.sessionize.com/image/1246-400o400o1-Gaeo9AFt5rEC1dP6vVHabq.jpg",
+    "sessions": [
+      {
+        "id": 837964,
+        "name": "The Future of Kubernetes Admission Logic"
+      }
+    ],
+    "isTopSpeaker": false,
+    "links": [],
+    "questionAnswers": [
+      {
+        "id": 90750,
+        "question": "Job Title",
+        "questionType": "Short_Text",
+        "answer": "Platform Engineer",
+        "sort": 28,
+        "answerExtra": null
+      },
+      {
+        "id": 90751,
+        "question": "Company",
+        "questionType": "Short_Text",
+        "answer": "Giant Swarm",
+        "sort": 29,
+        "answerExtra": null
+      },
+      {
+        "id": 90808,
+        "question": "Linkedin",
+        "questionType": "Short_Text",
+        "answer": "https://www.linkedin.com/in/marcusnoble/",
+        "sort": 30,
+        "answerExtra": null
+      },
+      {
+        "id": 143680,
+        "question": "Test speaker file",
+        "questionType": "File_upload",
+        "answer": null,
+        "sort": 72,
+        "answerExtra": null
+      }
+    ],
+    "categories": []
+  },
+  {
+    "id": "b80ca810-a659-4668-ada1-7a94c5f834ea",
+    "firstName": "Miguel",
+    "lastName": "Martinho",
+    "fullName": "Miguel Martinho",
+    "bio": "I am Portuguese but I have been living in Budapest for 7 years.\r\nI joined Ericsson when I moved to Budapest to work as a software developer and I am currently working as a software architect at Ericsson.\r\nI spend my free time playing football, padel tennis and traveling to many places with my fiancée.",
+    "tagLine": "Ericsson, Software Architect",
+    "profilePicture": "https://cdn.sessionize.com/image/9020-400o400o1-LdkW7yReRahwzt9h7iQiiD.jpg",
+    "sessions": [
+      {
+        "id": 861566,
+        "name": "cert-manager in action: real-world use cases and solutions"
+      }
+    ],
+    "isTopSpeaker": false,
+    "links": [],
+    "questionAnswers": [
+      {
+        "id": 90750,
+        "question": "Job Title",
+        "questionType": "Short_Text",
+        "answer": "Software Architect",
+        "sort": 28,
+        "answerExtra": null
+      },
+      {
+        "id": 90751,
+        "question": "Company",
+        "questionType": "Short_Text",
+        "answer": "Ericsson",
+        "sort": 29,
+        "answerExtra": null
+      },
+      {
+        "id": 90808,
+        "question": "Linkedin",
+        "questionType": "Short_Text",
+        "answer": null,
+        "sort": 30,
+        "answerExtra": null
+      },
+      {
+        "id": 143680,
+        "question": "Test speaker file",
+        "questionType": "File_upload",
+        "answer": null,
+        "sort": 72,
+        "answerExtra": null
+      }
+    ],
+    "categories": []
+  },
+  {
+    "id": "ecc0a2d7-5252-459d-9a56-fd7348ee55c5",
+    "firstName": "Patrycja",
+    "lastName": "Wegrzynowicz",
+    "fullName": "Patrycja Wegrzynowicz",
+    "bio": "Patrycja is a principal consultant and founder of Yon Labs, a startup developing automated tools for detecting and refactoring security vulnerabilities, performance anti-patterns, and cloud misconfigurations. She brings deep expertise in Java, C++, SRE, DevOps, security, performance optimization, and cloud technologies.\r\n\r\nShe is a regular speaker at leading software conferences, including KubeCon, JavaOne, Devoxx, JFokus, and others. Patrycja has been recognized as a Java Champion and holds titles such as Oracle Groundbreaker Ambassador, Oracle ACE Associate, and Oracle ACE Pro. In 2016, she was named one of the Top 10 Women in Tech in Poland.\r\n\r\nHer interests focus on automated software engineering, particularly static and dynamic analysis techniques to support software verification, optimization, and deployment.",
+    "tagLine": "Yon Labs",
+    "profilePicture": "https://cdn.sessionize.com/image/1c4a-400o400o1-De7393bcwE9K1RoMJUJety.png",
+    "sessions": [
+      {
+        "id": 869353,
+        "name": "The Hacker's Guide to Pod Escape"
+      }
+    ],
+    "isTopSpeaker": false,
+    "links": [],
+    "questionAnswers": [
+      {
+        "id": 90750,
+        "question": "Job Title",
+        "questionType": "Short_Text",
+        "answer": "Founder",
+        "sort": 28,
+        "answerExtra": null
+      },
+      {
+        "id": 90751,
+        "question": "Company",
+        "questionType": "Short_Text",
+        "answer": "Yon Labs",
+        "sort": 29,
+        "answerExtra": null
+      },
+      {
+        "id": 90808,
+        "question": "Linkedin",
+        "questionType": "Short_Text",
+        "answer": "https://www.linkedin.com/in/patrycjaw/",
+        "sort": 30,
+        "answerExtra": null
+      },
+      {
+        "id": 143680,
+        "question": "Test speaker file",
+        "questionType": "File_upload",
+        "answer": null,
+        "sort": 72,
+        "answerExtra": null
+      }
+    ],
+    "categories": []
+  },
+  {
+    "id": "01019678-a2f8-4c56-9139-4ad5d791fa45",
+    "firstName": "Peter",
+    "lastName": "Cseh",
+    "fullName": "Peter Cseh",
+    "bio": "I am a Lead Software Engineer at Altair with many years of professional experience. I am currently specialized in designing and developing a robust platform using cloud native technologies that enables users to seamlessly train, deploy, monitor, and manage machine learning and large language models (LLMs).\r\nOutside of work, I enjoy playing tennis and football, which keep me active, creative and balanced.",
+    "tagLine": "Lead Software Engineer at Altair ",
+    "profilePicture": "https://cdn.sessionize.com/image/cef9-400o400o1-XCX4ouQkoJwPk8LCikyhu1.png",
+    "sessions": [
+      {
+        "id": 863256,
+        "name": "Model inferencing on Kubernetes with KServe"
+      }
+    ],
+    "isTopSpeaker": false,
+    "links": [],
+    "questionAnswers": [
+      {
+        "id": 90750,
+        "question": "Job Title",
+        "questionType": "Short_Text",
+        "answer": "Lead Software Engineer",
+        "sort": 28,
+        "answerExtra": null
+      },
+      {
+        "id": 90751,
+        "question": "Company",
+        "questionType": "Short_Text",
+        "answer": "Altair",
+        "sort": 29,
+        "answerExtra": null
+      },
+      {
+        "id": 90808,
+        "question": "Linkedin",
+        "questionType": "Short_Text",
+        "answer": "https://www.linkedin.com/company/altair-engineering/",
+        "sort": 30,
+        "answerExtra": null
+      },
+      {
+        "id": 143680,
+        "question": "Test speaker file",
+        "questionType": "File_upload",
+        "answer": null,
+        "sort": 72,
+        "answerExtra": null
+      }
+    ],
+    "categories": []
+  },
+  {
+    "id": "83450c3f-0268-4c22-b275-41ccb5ee08d6",
+    "firstName": "Piotr",
+    "lastName": "Trębacz",
+    "fullName": "Piotr Trębacz",
+    "bio": "Piotr is a seasoned Cloud Native Devops and Platform Automation mentor with profound insights on original product development ranging across multiple diverse markets. Contributions he made are still alive in sectors of industry 4.0, banking, logistics, fuel, gambling and even air defense systems.\r\n\r\nIn his 10+ years career he is aiming to make a positive impact on any business and person they engage with by using his passion for simplifying complex systems, sharing knowledge and leaving things in better shape than he approached it. What truly sets him apart is an extensive Second Brain, a Hawaiian shirts collection and a wide range of hobbies (running TTRPG, probability driven optimization for board games, playing harmonica, rapid-prototyping and manufacturing, vector and traditional graphics, motorcycle joyrides).",
+    "tagLine": "Cloud Native Devops | Agile & Strategic Rebel | Good Practices Hoarder | Tabletop Tactician",
+    "profilePicture": "https://cdn.sessionize.com/image/d8e0-400o400o1-MNFUtx7WysP6sy2z7467Lt.jpg",
+    "sessions": [
+      {
+        "id": 853143,
+        "name": "Delete all Dockerfiles"
+      }
+    ],
+    "isTopSpeaker": false,
+    "links": [],
+    "questionAnswers": [
+      {
+        "id": 90750,
+        "question": "Job Title",
+        "questionType": "Short_Text",
+        "answer": "Cloud Native Devops",
+        "sort": 28,
+        "answerExtra": null
+      },
+      {
+        "id": 90751,
+        "question": "Company",
+        "questionType": "Short_Text",
+        "answer": "Freelance",
+        "sort": 29,
+        "answerExtra": null
+      },
+      {
+        "id": 90808,
+        "question": "Linkedin",
+        "questionType": "Short_Text",
+        "answer": null,
+        "sort": 30,
+        "answerExtra": null
+      },
+      {
+        "id": 143680,
+        "question": "Test speaker file",
+        "questionType": "File_upload",
+        "answer": null,
+        "sort": 72,
+        "answerExtra": null
+      }
+    ],
+    "categories": []
+  },
+  {
+    "id": "f7ff3341-9e0c-45b1-a9ec-a596c6658c64",
+    "firstName": "Rafael",
+    "lastName": "Natali",
+    "fullName": "Rafael Natali",
+    "bio": "Experienced Lead DevSecOps Engineer with a proven track record of successfully delivering complex projects in a variety of industries. With a deep understanding of cloud-native ecosystems across AWS, GCP, and hybrid infrastructures. I architect and automate deployments using Kubernetes, Terraform, and DevSecOps best practices. Certified as a Kubestronaut, I thrive on optimising clusters, enhancing security, and driving operational excellence. Whether it's fine-tuning a microservices deployment, securing workloads, or automating complex workflows.",
+    "tagLine": "Lead DevSecOps Engineer at Marionete ",
+    "profilePicture": "https://cdn.sessionize.com/image/c956-400o400o1-41-9e0c-45b1-a9ec-a596c6658c64.56ab4984-07f2-4b58-959e-6a9150b072c5.jpg",
+    "sessions": [
+      {
+        "id": 866514,
+        "name": "Who left the K8s open again?!"
+      }
+    ],
+    "isTopSpeaker": false,
+    "links": [],
+    "questionAnswers": [
+      {
+        "id": 90750,
+        "question": "Job Title",
+        "questionType": "Short_Text",
+        "answer": "Lead DevSecOps Engineer",
+        "sort": 28,
+        "answerExtra": null
+      },
+      {
+        "id": 90751,
+        "question": "Company",
+        "questionType": "Short_Text",
+        "answer": "Marionete",
+        "sort": 29,
+        "answerExtra": null
+      },
+      {
+        "id": 90808,
+        "question": "Linkedin",
+        "questionType": "Short_Text",
+        "answer": "https://www.linkedin.com/in/rafaelnatali/",
+        "sort": 30,
+        "answerExtra": null
+      },
+      {
+        "id": 143680,
+        "question": "Test speaker file",
+        "questionType": "File_upload",
+        "answer": null,
+        "sort": 72,
+        "answerExtra": null
+      }
+    ],
+    "categories": []
+  },
+  {
+    "id": "2b00aa80-ff2e-4603-82f4-f21dd89554b5",
+    "firstName": "Riccardo",
+    "lastName": "Freschi",
+    "fullName": "Riccardo Freschi",
+    "bio": "Riccardo Freschi is a Sr. Solutions Architect at AWS, focusing on Application Modernization. He works closely with partners and customers, to help them transform their IT landscapes in their journey to the AWS Cloud, by refactoring existing applications and building new ones, cloud natively.",
+    "tagLine": "Sr. Solution Architect, AWS",
+    "profilePicture": "https://cdn.sessionize.com/image/bb9a-400o400o1-Gm24iemzSHkujL5F7q6WVD.png",
+    "sessions": [
+      {
+        "id": 863487,
+        "name": "Event-driven autoscaling for Kubernetes workloads, using KEDA and Prometheus metrics"
+      }
+    ],
+    "isTopSpeaker": false,
+    "links": [],
+    "questionAnswers": [
+      {
+        "id": 90750,
+        "question": "Job Title",
+        "questionType": "Short_Text",
+        "answer": "Sr. Solution Architect",
+        "sort": 28,
+        "answerExtra": null
+      },
+      {
+        "id": 90751,
+        "question": "Company",
+        "questionType": "Short_Text",
+        "answer": "AWS",
+        "sort": 29,
+        "answerExtra": null
+      },
+      {
+        "id": 90808,
+        "question": "Linkedin",
+        "questionType": "Short_Text",
+        "answer": "https://www.linkedin.com/in/riccardo-freschi-0b315b2/",
+        "sort": 30,
+        "answerExtra": null
+      },
+      {
+        "id": 143680,
+        "question": "Test speaker file",
+        "questionType": "File_upload",
+        "answer": null,
+        "sort": 72,
+        "answerExtra": null
+      }
+    ],
+    "categories": []
+  },
+  {
+    "id": "e7f38d3b-8b6a-4903-9314-ccbbb566952a",
+    "firstName": "Richard",
+    "lastName": "Kovacs",
+    "fullName": "Richard Kovacs",
+    "bio": "Richard is a Chief Technology Officer at inspirNation with many years of DevOps background. His main focuses are Go micro-service and Kubernetes operators. Richard is passionate about technology and innovation.  His constant curiosity drives him to learn, gain knowledge and be an expert in this area.  He also loves getting involved with open-source communities. He is also a frequent speaker at local conferences and community events.",
+    "tagLine": "inspirNation, Chief Technology Officer",
+    "profilePicture": "https://cdn.sessionize.com/image/58f4-400o400o1-3b-8b6a-4903-9314-ccbbb566952a.d4ec67e4-f3b5-4961-b1d4-832c6b757082.png",
+    "sessions": [
+      {
+        "id": 854525,
+        "name": "Limits of the Kubernetes API Server: Scaling Challenges with Custom Resource Definitions"
+      }
+    ],
+    "isTopSpeaker": false,
+    "links": [],
+    "questionAnswers": [
+      {
+        "id": 90750,
+        "question": "Job Title",
+        "questionType": "Short_Text",
+        "answer": "Chief Technology Officer",
+        "sort": 28,
+        "answerExtra": null
+      },
+      {
+        "id": 90751,
+        "question": "Company",
+        "questionType": "Short_Text",
+        "answer": "inspirNation",
+        "sort": 29,
+        "answerExtra": null
+      },
+      {
+        "id": 90808,
+        "question": "Linkedin",
+        "questionType": "Short_Text",
+        "answer": null,
+        "sort": 30,
+        "answerExtra": null
+      },
+      {
+        "id": 143680,
+        "question": "Test speaker file",
+        "questionType": "File_upload",
+        "answer": null,
+        "sort": 72,
+        "answerExtra": null
+      }
+    ],
+    "categories": []
+  },
+  {
+    "id": "e85e1e80-f5d2-41f5-8c98-e847304848c7",
+    "firstName": "Tamás",
+    "lastName": "Lévai",
+    "fullName": "Tamás Lévai",
+    "bio": "Tamás Lévai, PhD is a developer/co-founder at L7mp Technologies, and an assistant professor at Budapest University of Technology and Economics.\r\nHis interest focuses on computer networks and distributed computing. At L7mp, he is currently building out the foundations of a cloud-native real-time communications platform.",
+    "tagLine": "developer/co-founder @ l7mp.io",
+    "profilePicture": "https://cdn.sessionize.com/image/0920-400o400o1-WFkGpQufAXRgMnFgSjwKgc.jpg",
+    "sessions": [
+      {
+        "id": 863407,
+        "name": "Real-Time AI Voice Assistants in Kubernetes"
+      }
+    ],
+    "isTopSpeaker": false,
+    "links": [],
+    "questionAnswers": [
+      {
+        "id": 90750,
+        "question": "Job Title",
+        "questionType": "Short_Text",
+        "answer": "developer/co-founder",
+        "sort": 28,
+        "answerExtra": null
+      },
+      {
+        "id": 90751,
+        "question": "Company",
+        "questionType": "Short_Text",
+        "answer": "L7MP Technologies",
+        "sort": 29,
+        "answerExtra": null
+      },
+      {
+        "id": 90808,
+        "question": "Linkedin",
+        "questionType": "Short_Text",
+        "answer": "https://www.linkedin.com/in/tamaslevai",
+        "sort": 30,
+        "answerExtra": null
+      },
+      {
+        "id": 143680,
+        "question": "Test speaker file",
+        "questionType": "File_upload",
+        "answer": null,
+        "sort": 72,
+        "answerExtra": null
+      }
+    ],
+    "categories": []
+  },
+  {
+    "id": "08521b30-d304-498f-8bbf-627d5f9ffba4",
+    "firstName": "Viktor",
+    "lastName": "Nagy",
+    "fullName": "Viktor Nagy",
+    "bio": "As a Senior Product Manager at GitLab, I lead the development of application delivery features, with a focus on infrastructure as code and Kubernetes integration. My journey in tech started on the engineering side, where I managed production infrastructure across multiple startups before transitioning to product management. This hands-on background gives me a deep appreciation for the challenges DevOps teams face daily and drives my passion for creating tools that make cloud-native development more accessible and efficient. In my free time, depending on the weather I work on my home automation setup, prune the trees in the garden or go for a bike-ride or to wing foil.",
+    "tagLine": "Product Manager of Delivery @ GitLab ",
+    "profilePicture": "https://cdn.sessionize.com/image/51ed-400o400o1-f8eSn9MNHvP5owz9fykjqb.jpg",
+    "sessions": [
+      {
+        "id": 886030,
+        "name": "Application Delivery: Past, Present and AI"
+      }
+    ],
+    "isTopSpeaker": false,
+    "links": [],
+    "questionAnswers": [
+      {
+        "id": 90750,
+        "question": "Job Title",
+        "questionType": "Short_Text",
+        "answer": "Product",
+        "sort": 28,
+        "answerExtra": null
+      },
+      {
+        "id": 90751,
+        "question": "Company",
+        "questionType": "Short_Text",
+        "answer": "ex-GitLab",
+        "sort": 29,
+        "answerExtra": null
+      },
+      {
+        "id": 90808,
+        "question": "Linkedin",
+        "questionType": "Short_Text",
+        "answer": null,
+        "sort": 30,
+        "answerExtra": null
+      },
+      {
+        "id": 143680,
+        "question": "Test speaker file",
+        "questionType": "File_upload",
+        "answer": "https://sessionize.com/download/izcalfev~PAsvpQhKrhtjMLpZA7ECSH.svg~kcd_budapest_logo-01-2.svg",
+        "sort": 72,
+        "answerExtra": "KCD_Budapest_logo-01-2.svg"
+      }
+    ],
+    "categories": []
+  }
+]

@@ -1,0 +1,2283 @@
+[
+  {
+    "groupId": null,
+    "groupName": "All",
+    "sessions": [
+      {
+        "questionAnswers": [
+          {
+            "id": 143673,
+            "question": "Test file upload",
+            "questionType": "File_upload",
+            "answer": null,
+            "sort": 58,
+            "answerExtra": null
+          },
+          {
+            "id": 143674,
+            "question": "Test web address",
+            "questionType": "Web_address",
+            "answer": null,
+            "sort": 59,
+            "answerExtra": null
+          },
+          {
+            "id": 143675,
+            "question": "Test checkbox",
+            "questionType": "Checkbox",
+            "answer": null,
+            "sort": 60,
+            "answerExtra": null
+          },
+          {
+            "id": 143676,
+            "question": "Test unchecked checkbox",
+            "questionType": "Checkbox",
+            "answer": null,
+            "sort": 61,
+            "answerExtra": null
+          },
+          {
+            "id": 143677,
+            "question": "Test email address",
+            "questionType": "Email_address",
+            "answer": null,
+            "sort": 62,
+            "answerExtra": null
+          },
+          {
+            "id": 143678,
+            "question": "Test long text",
+            "questionType": "Long_Text",
+            "answer": null,
+            "sort": 63,
+            "answerExtra": null
+          },
+          {
+            "id": 143679,
+            "question": "Test integer",
+            "questionType": "Integer",
+            "answer": null,
+            "sort": 64,
+            "answerExtra": null
+          }
+        ],
+        "id": "880007",
+        "title": "From Signals to Standards: Unifying Platform Engineering and Observability",
+        "description": "In the ever-evolving landscape of software development, platform engineering and observability have been on parallel journeys of transformation. Kubernetes has revolutionized how we run containers everywhere, standardizing platforms for infrastructure. Similarly, OpenTelemetry is standardizing telemetry collection, enabling developers to own and understand their systems with ease.\r\n\r\nIn this talk, we’ll explore the history of platform engineering and the evolution of observability - from fragmented signals to unified platforms built on open standards. We’ll dive into how platform engineering introduced self-service and abstraction to empower developers and how observability platforms, like OpenTelemetry, are achieving similar goals through auto-instrumentation and open ecosystems.\r\n\r\nDiscover the emerging trends, from dashboards-as-code with Perses to how standardization allows teams to install the \"last observability agent\" and focus on what truly matters: delivering exceptional software\r\n",
+        "startsAt": "2025-04-24T09:00:00",
+        "endsAt": "2025-04-24T09:30:00",
+        "isServiceSession": false,
+        "isPlenumSession": true,
+        "speakers": [
+          {
+            "id": "3a3764a1-7dfb-4ee5-8306-f2173fd9e606",
+            "name": "Kasper Borg Nissen"
+          }
+        ],
+        "categories": [
+          {
+            "id": 143671,
+            "name": "Test single choice",
+            "categoryItems": [],
+            "sort": 56
+          },
+          {
+            "id": 143672,
+            "name": "Test multiple choice",
+            "categoryItems": [],
+            "sort": 57
+          }
+        ],
+        "roomId": 58209,
+        "room": "Room 1",
+        "liveUrl": null,
+        "recordingUrl": null,
+        "status": "Accepted",
+        "isInformed": true,
+        "isConfirmed": true
+      },
+      {
+        "questionAnswers": [
+          {
+            "id": 143673,
+            "question": "Test file upload",
+            "questionType": "File_upload",
+            "answer": "https://sessionize.com/download/isjaszek~EvzfQz8TAeutjA1cD7nUDz.svg~kcd_budapest_logo-01.svg",
+            "sort": 58,
+            "answerExtra": "KCD_Budapest_logo-01.svg"
+          },
+          {
+            "id": 143674,
+            "question": "Test web address",
+            "questionType": "Web_address",
+            "answer": "https://sagikazarmark.com",
+            "sort": 59,
+            "answerExtra": null
+          },
+          {
+            "id": 143675,
+            "question": "Test checkbox",
+            "questionType": "Checkbox",
+            "answer": "true",
+            "sort": 60,
+            "answerExtra": null
+          },
+          {
+            "id": 143676,
+            "question": "Test unchecked checkbox",
+            "questionType": "Checkbox",
+            "answer": "false",
+            "sort": 61,
+            "answerExtra": null
+          },
+          {
+            "id": 143677,
+            "question": "Test email address",
+            "questionType": "Email_address",
+            "answer": "mark@mark.com",
+            "sort": 62,
+            "answerExtra": null
+          },
+          {
+            "id": 143678,
+            "question": "Test long text",
+            "questionType": "Long_Text",
+            "answer": "asdasda\r\n\r\n\r\nasdasdsaa\r\n\r\n\r\nadsadasd",
+            "sort": 63,
+            "answerExtra": null
+          },
+          {
+            "id": 143679,
+            "question": "Test integer",
+            "questionType": "Integer",
+            "answer": "12345",
+            "sort": 64,
+            "answerExtra": null
+          }
+        ],
+        "id": "886030",
+        "title": "Application Delivery: Past, Present and AI",
+        "description": "We'll explore how cloud-native technologies have transformed software application deployment. I'll trace the progression from early deployment methods through GitOps and modern CI/CD practices, before examining how AI is revolutionizing application delivery today, and will ideate a bit on what might be the standard in a few years.",
+        "startsAt": "2025-04-24T09:30:00",
+        "endsAt": "2025-04-24T10:00:00",
+        "isServiceSession": false,
+        "isPlenumSession": true,
+        "speakers": [
+          {
+            "id": "08521b30-d304-498f-8bbf-627d5f9ffba4",
+            "name": "Viktor Nagy"
+          }
+        ],
+        "categories": [
+          {
+            "id": 143671,
+            "name": "Test single choice",
+            "categoryItems": [
+              {
+                "id": 520115,
+                "name": "choice1"
+              }
+            ],
+            "sort": 56
+          },
+          {
+            "id": 143672,
+            "name": "Test multiple choice",
+            "categoryItems": [
+              {
+                "id": 520117,
+                "name": "choice1"
+              },
+              {
+                "id": 520118,
+                "name": "choice2"
+              }
+            ],
+            "sort": 57
+          }
+        ],
+        "roomId": 58209,
+        "room": "Room 1",
+        "liveUrl": null,
+        "recordingUrl": null,
+        "status": "Accepted",
+        "isInformed": true,
+        "isConfirmed": true
+      },
+      {
+        "questionAnswers": [
+          {
+            "id": 143673,
+            "question": "Test file upload",
+            "questionType": "File_upload",
+            "answer": null,
+            "sort": 58,
+            "answerExtra": null
+          },
+          {
+            "id": 143674,
+            "question": "Test web address",
+            "questionType": "Web_address",
+            "answer": null,
+            "sort": 59,
+            "answerExtra": null
+          },
+          {
+            "id": 143675,
+            "question": "Test checkbox",
+            "questionType": "Checkbox",
+            "answer": null,
+            "sort": 60,
+            "answerExtra": null
+          },
+          {
+            "id": 143676,
+            "question": "Test unchecked checkbox",
+            "questionType": "Checkbox",
+            "answer": null,
+            "sort": 61,
+            "answerExtra": null
+          },
+          {
+            "id": 143677,
+            "question": "Test email address",
+            "questionType": "Email_address",
+            "answer": null,
+            "sort": 62,
+            "answerExtra": null
+          },
+          {
+            "id": 143678,
+            "question": "Test long text",
+            "questionType": "Long_Text",
+            "answer": null,
+            "sort": 63,
+            "answerExtra": null
+          },
+          {
+            "id": 143679,
+            "question": "Test integer",
+            "questionType": "Integer",
+            "answer": null,
+            "sort": 64,
+            "answerExtra": null
+          }
+        ],
+        "id": "866794",
+        "title": "Escape from Serverless Vendor Lock-in",
+        "description": "We'll start with a concise overview, a quick dive into serverless concepts & Knative's design. Then, play an interactive game to see Knative in action, and a summary about the development journey and Knative's hands-on impression. Finally, exploring Knative's strengths & weaknesses, and key takeaways for building vendor-neutral, event-driven applications.",
+        "startsAt": "2025-04-24T10:25:00",
+        "endsAt": "2025-04-24T11:00:00",
+        "isServiceSession": false,
+        "isPlenumSession": false,
+        "speakers": [
+          {
+            "id": "76efa1b4-8782-4fb5-9c8c-ad40d86418e0",
+            "name": "Ákos Dombi"
+          }
+        ],
+        "categories": [
+          {
+            "id": 143671,
+            "name": "Test single choice",
+            "categoryItems": [],
+            "sort": 56
+          },
+          {
+            "id": 143672,
+            "name": "Test multiple choice",
+            "categoryItems": [],
+            "sort": 57
+          }
+        ],
+        "roomId": 58209,
+        "room": "Room 1",
+        "liveUrl": null,
+        "recordingUrl": null,
+        "status": "Accepted",
+        "isInformed": true,
+        "isConfirmed": true
+      },
+      {
+        "questionAnswers": [
+          {
+            "id": 143673,
+            "question": "Test file upload",
+            "questionType": "File_upload",
+            "answer": null,
+            "sort": 58,
+            "answerExtra": null
+          },
+          {
+            "id": 143674,
+            "question": "Test web address",
+            "questionType": "Web_address",
+            "answer": null,
+            "sort": 59,
+            "answerExtra": null
+          },
+          {
+            "id": 143675,
+            "question": "Test checkbox",
+            "questionType": "Checkbox",
+            "answer": null,
+            "sort": 60,
+            "answerExtra": null
+          },
+          {
+            "id": 143676,
+            "question": "Test unchecked checkbox",
+            "questionType": "Checkbox",
+            "answer": null,
+            "sort": 61,
+            "answerExtra": null
+          },
+          {
+            "id": 143677,
+            "question": "Test email address",
+            "questionType": "Email_address",
+            "answer": null,
+            "sort": 62,
+            "answerExtra": null
+          },
+          {
+            "id": 143678,
+            "question": "Test long text",
+            "questionType": "Long_Text",
+            "answer": null,
+            "sort": 63,
+            "answerExtra": null
+          },
+          {
+            "id": 143679,
+            "question": "Test integer",
+            "questionType": "Integer",
+            "answer": null,
+            "sort": 64,
+            "answerExtra": null
+          }
+        ],
+        "id": "869353",
+        "title": "The Hacker's Guide to Pod Escape",
+        "description": "As Kubernetes leads the way in container orchestration, securing clusters has never been more crucial. A major threat is pod escape, where attackers breach container isolation to access the host system or other containers, potentially compromising the entire cluster.\r\n\r\nThis talk demystifies the concept of pod escape in Kubernetes. We'll break down how misconfigurations, insecure defaults, and overlooked vulnerabilities can open doors for attackers. Through live interactive demos, you'll learn about common security pitfalls such as misconfigured security contexts, privileged containers, and sharing host namespaces.\r\n\r\nNot only will you learn about common mistakes and vulnerabilities, but you'll also discover best practices for container security, including setting up proper security contexts, enforcing the principle of least privilege, and effectively utilizing Kubernetes security features. \r\n",
+        "startsAt": "2025-04-24T10:25:00",
+        "endsAt": "2025-04-24T11:00:00",
+        "isServiceSession": false,
+        "isPlenumSession": false,
+        "speakers": [
+          {
+            "id": "ecc0a2d7-5252-459d-9a56-fd7348ee55c5",
+            "name": "Patrycja Wegrzynowicz"
+          }
+        ],
+        "categories": [
+          {
+            "id": 143671,
+            "name": "Test single choice",
+            "categoryItems": [],
+            "sort": 56
+          },
+          {
+            "id": 143672,
+            "name": "Test multiple choice",
+            "categoryItems": [],
+            "sort": 57
+          }
+        ],
+        "roomId": 58210,
+        "room": "Room 2",
+        "liveUrl": null,
+        "recordingUrl": null,
+        "status": "Accepted",
+        "isInformed": true,
+        "isConfirmed": true
+      },
+      {
+        "questionAnswers": [
+          {
+            "id": 143673,
+            "question": "Test file upload",
+            "questionType": "File_upload",
+            "answer": null,
+            "sort": 58,
+            "answerExtra": null
+          },
+          {
+            "id": 143674,
+            "question": "Test web address",
+            "questionType": "Web_address",
+            "answer": null,
+            "sort": 59,
+            "answerExtra": null
+          },
+          {
+            "id": 143675,
+            "question": "Test checkbox",
+            "questionType": "Checkbox",
+            "answer": null,
+            "sort": 60,
+            "answerExtra": null
+          },
+          {
+            "id": 143676,
+            "question": "Test unchecked checkbox",
+            "questionType": "Checkbox",
+            "answer": null,
+            "sort": 61,
+            "answerExtra": null
+          },
+          {
+            "id": 143677,
+            "question": "Test email address",
+            "questionType": "Email_address",
+            "answer": null,
+            "sort": 62,
+            "answerExtra": null
+          },
+          {
+            "id": 143678,
+            "question": "Test long text",
+            "questionType": "Long_Text",
+            "answer": null,
+            "sort": 63,
+            "answerExtra": null
+          },
+          {
+            "id": 143679,
+            "question": "Test integer",
+            "questionType": "Integer",
+            "answer": null,
+            "sort": 64,
+            "answerExtra": null
+          }
+        ],
+        "id": "854525",
+        "title": "Limits of the Kubernetes API Server: Scaling Challenges with Custom Resource Definitions",
+        "description": "As the adoption of Custom Resource Definitions (CRDs) grows, the Kubernetes API server faces scalability and performance challenges. This presentation explores the architectural limits, potential bottlenecks, and best practices to ensure efficient CRD management in Kubernetes environments.",
+        "startsAt": "2025-04-24T11:00:00",
+        "endsAt": "2025-04-24T11:35:00",
+        "isServiceSession": false,
+        "isPlenumSession": false,
+        "speakers": [
+          {
+            "id": "e7f38d3b-8b6a-4903-9314-ccbbb566952a",
+            "name": "Richard Kovacs"
+          }
+        ],
+        "categories": [
+          {
+            "id": 143671,
+            "name": "Test single choice",
+            "categoryItems": [],
+            "sort": 56
+          },
+          {
+            "id": 143672,
+            "name": "Test multiple choice",
+            "categoryItems": [],
+            "sort": 57
+          }
+        ],
+        "roomId": 58209,
+        "room": "Room 1",
+        "liveUrl": null,
+        "recordingUrl": null,
+        "status": "Accepted",
+        "isInformed": true,
+        "isConfirmed": true
+      },
+      {
+        "questionAnswers": [
+          {
+            "id": 143673,
+            "question": "Test file upload",
+            "questionType": "File_upload",
+            "answer": null,
+            "sort": 58,
+            "answerExtra": null
+          },
+          {
+            "id": 143674,
+            "question": "Test web address",
+            "questionType": "Web_address",
+            "answer": null,
+            "sort": 59,
+            "answerExtra": null
+          },
+          {
+            "id": 143675,
+            "question": "Test checkbox",
+            "questionType": "Checkbox",
+            "answer": null,
+            "sort": 60,
+            "answerExtra": null
+          },
+          {
+            "id": 143676,
+            "question": "Test unchecked checkbox",
+            "questionType": "Checkbox",
+            "answer": null,
+            "sort": 61,
+            "answerExtra": null
+          },
+          {
+            "id": 143677,
+            "question": "Test email address",
+            "questionType": "Email_address",
+            "answer": null,
+            "sort": 62,
+            "answerExtra": null
+          },
+          {
+            "id": 143678,
+            "question": "Test long text",
+            "questionType": "Long_Text",
+            "answer": null,
+            "sort": 63,
+            "answerExtra": null
+          },
+          {
+            "id": 143679,
+            "question": "Test integer",
+            "questionType": "Integer",
+            "answer": null,
+            "sort": 64,
+            "answerExtra": null
+          }
+        ],
+        "id": "829495",
+        "title": "A Guide to gRPC Request-based Load Balancing",
+        "description": "One of Kubernetes' most basic functions is load balancing: routing traffic among several pods so that, ideally, each pod handles the same amount of load. But, Kubernetes by itself, only balances connections rather than requests, and that has some downsides for protocols like gRPC and HTTP/2.\r\n\r\nThe good news: a service mesh can do better. Since service meshes mediate all application traffic, they can do per-request load balancing for gRPC and HTTP/2, making for much more effective resource utilization than per-connection balancing. Since they understand what happens in each request, they can also provide reliability and observability at the request level (for example, retrying only failed gRPC requests). And they can provide all this additional functionality without needing to change the application at all. Join Dominik for a deep dive into what service mesh can do, including a live demonstration using Linkerd and paying special attention to streaming gRPC.",
+        "startsAt": "2025-04-24T11:00:00",
+        "endsAt": "2025-04-24T11:35:00",
+        "isServiceSession": false,
+        "isPlenumSession": false,
+        "speakers": [
+          {
+            "id": "b51b244c-6569-483c-a65b-13b7474ab936",
+            "name": "Dominik Táskai"
+          }
+        ],
+        "categories": [
+          {
+            "id": 143671,
+            "name": "Test single choice",
+            "categoryItems": [],
+            "sort": 56
+          },
+          {
+            "id": 143672,
+            "name": "Test multiple choice",
+            "categoryItems": [],
+            "sort": 57
+          }
+        ],
+        "roomId": 58210,
+        "room": "Room 2",
+        "liveUrl": null,
+        "recordingUrl": null,
+        "status": "Accepted",
+        "isInformed": true,
+        "isConfirmed": true
+      },
+      {
+        "questionAnswers": [
+          {
+            "id": 143673,
+            "question": "Test file upload",
+            "questionType": "File_upload",
+            "answer": null,
+            "sort": 58,
+            "answerExtra": null
+          },
+          {
+            "id": 143674,
+            "question": "Test web address",
+            "questionType": "Web_address",
+            "answer": null,
+            "sort": 59,
+            "answerExtra": null
+          },
+          {
+            "id": 143675,
+            "question": "Test checkbox",
+            "questionType": "Checkbox",
+            "answer": null,
+            "sort": 60,
+            "answerExtra": null
+          },
+          {
+            "id": 143676,
+            "question": "Test unchecked checkbox",
+            "questionType": "Checkbox",
+            "answer": null,
+            "sort": 61,
+            "answerExtra": null
+          },
+          {
+            "id": 143677,
+            "question": "Test email address",
+            "questionType": "Email_address",
+            "answer": null,
+            "sort": 62,
+            "answerExtra": null
+          },
+          {
+            "id": 143678,
+            "question": "Test long text",
+            "questionType": "Long_Text",
+            "answer": null,
+            "sort": 63,
+            "answerExtra": null
+          },
+          {
+            "id": 143679,
+            "question": "Test integer",
+            "questionType": "Integer",
+            "answer": null,
+            "sort": 64,
+            "answerExtra": null
+          }
+        ],
+        "id": "864154",
+        "title": "Let's create a managed Kubernetes as a service at scale.",
+        "description": "You probably think public clouds are closed, proprietary, secret, magic black boxes, which somehow provides *aaS in return of your credit card details. This talk will go through on the key concept and patterns on how actual managed public cloud services are designed, with a potential of virtual infinite scalability. The subject service will be Kubernetes itself. We will see how the cluster components are split up and deployed, how the control plane becomes managed, how it is operated with open technologies behind the scenes, and how it is operated so effectively that the user may get the control-plane part for free.",
+        "startsAt": "2025-04-24T11:35:00",
+        "endsAt": "2025-04-24T12:10:00",
+        "isServiceSession": false,
+        "isPlenumSession": false,
+        "speakers": [
+          {
+            "id": "f6aa8e0d-621a-4621-af59-5d5041623c29",
+            "name": "Gergő Huszty"
+          }
+        ],
+        "categories": [
+          {
+            "id": 143671,
+            "name": "Test single choice",
+            "categoryItems": [],
+            "sort": 56
+          },
+          {
+            "id": 143672,
+            "name": "Test multiple choice",
+            "categoryItems": [],
+            "sort": 57
+          }
+        ],
+        "roomId": 58209,
+        "room": "Room 1",
+        "liveUrl": null,
+        "recordingUrl": null,
+        "status": "Accepted",
+        "isInformed": true,
+        "isConfirmed": true
+      },
+      {
+        "questionAnswers": [
+          {
+            "id": 143673,
+            "question": "Test file upload",
+            "questionType": "File_upload",
+            "answer": null,
+            "sort": 58,
+            "answerExtra": null
+          },
+          {
+            "id": 143674,
+            "question": "Test web address",
+            "questionType": "Web_address",
+            "answer": null,
+            "sort": 59,
+            "answerExtra": null
+          },
+          {
+            "id": 143675,
+            "question": "Test checkbox",
+            "questionType": "Checkbox",
+            "answer": null,
+            "sort": 60,
+            "answerExtra": null
+          },
+          {
+            "id": 143676,
+            "question": "Test unchecked checkbox",
+            "questionType": "Checkbox",
+            "answer": null,
+            "sort": 61,
+            "answerExtra": null
+          },
+          {
+            "id": 143677,
+            "question": "Test email address",
+            "questionType": "Email_address",
+            "answer": null,
+            "sort": 62,
+            "answerExtra": null
+          },
+          {
+            "id": 143678,
+            "question": "Test long text",
+            "questionType": "Long_Text",
+            "answer": null,
+            "sort": 63,
+            "answerExtra": null
+          },
+          {
+            "id": 143679,
+            "question": "Test integer",
+            "questionType": "Integer",
+            "answer": null,
+            "sort": 64,
+            "answerExtra": null
+          }
+        ],
+        "id": "868645",
+        "title": "Using k9s for maximum efficiency",
+        "description": "k9s is one of the best tools for quickly navigating and debugging any kubernetes cluster. But did you know you can extend it? Switch contexts, remove finalizers, parse JSON logs and even use an LLM to analyze what is going on with your applications",
+        "startsAt": "2025-04-24T11:35:00",
+        "endsAt": "2025-04-24T12:10:00",
+        "isServiceSession": false,
+        "isPlenumSession": false,
+        "speakers": [
+          {
+            "id": "2975aa04-15d6-4fba-b39e-ba82fc78618a",
+            "name": "Erwin de Keijzer"
+          }
+        ],
+        "categories": [
+          {
+            "id": 143671,
+            "name": "Test single choice",
+            "categoryItems": [],
+            "sort": 56
+          },
+          {
+            "id": 143672,
+            "name": "Test multiple choice",
+            "categoryItems": [],
+            "sort": 57
+          }
+        ],
+        "roomId": 58210,
+        "room": "Room 2",
+        "liveUrl": null,
+        "recordingUrl": null,
+        "status": "Accepted",
+        "isInformed": true,
+        "isConfirmed": true
+      },
+      {
+        "questionAnswers": [
+          {
+            "id": 143673,
+            "question": "Test file upload",
+            "questionType": "File_upload",
+            "answer": null,
+            "sort": 58,
+            "answerExtra": null
+          },
+          {
+            "id": 143674,
+            "question": "Test web address",
+            "questionType": "Web_address",
+            "answer": null,
+            "sort": 59,
+            "answerExtra": null
+          },
+          {
+            "id": 143675,
+            "question": "Test checkbox",
+            "questionType": "Checkbox",
+            "answer": null,
+            "sort": 60,
+            "answerExtra": null
+          },
+          {
+            "id": 143676,
+            "question": "Test unchecked checkbox",
+            "questionType": "Checkbox",
+            "answer": null,
+            "sort": 61,
+            "answerExtra": null
+          },
+          {
+            "id": 143677,
+            "question": "Test email address",
+            "questionType": "Email_address",
+            "answer": null,
+            "sort": 62,
+            "answerExtra": null
+          },
+          {
+            "id": 143678,
+            "question": "Test long text",
+            "questionType": "Long_Text",
+            "answer": null,
+            "sort": 63,
+            "answerExtra": null
+          },
+          {
+            "id": 143679,
+            "question": "Test integer",
+            "questionType": "Integer",
+            "answer": null,
+            "sort": 64,
+            "answerExtra": null
+          }
+        ],
+        "id": "863487",
+        "title": "Event-driven autoscaling for Kubernetes workloads, using KEDA and Prometheus metrics",
+        "description": "Kubernetes applications face challenges with efficiently handling traffic and load increases. Traditional manual scaling is time-consuming, inefficient, and prone to over or under provisioning. Autoscaling offers a better solution by automatically adjusting application instances based on real-time demand. Kubernetes Event-driven Autoscaling (KEDA) is an autoscaling tool for Kubernetes that allows scaling workloads based on metrics and events.\r\nJoin this session to explore how to setup event-driven autoscaling for Kubernetes pods in an Amazon EKS cluster, based on KEDA and Prometheus metrics.",
+        "startsAt": "2025-04-24T12:10:00",
+        "endsAt": "2025-04-24T12:45:00",
+        "isServiceSession": false,
+        "isPlenumSession": false,
+        "speakers": [
+          {
+            "id": "2b00aa80-ff2e-4603-82f4-f21dd89554b5",
+            "name": "Riccardo Freschi"
+          }
+        ],
+        "categories": [
+          {
+            "id": 143671,
+            "name": "Test single choice",
+            "categoryItems": [],
+            "sort": 56
+          },
+          {
+            "id": 143672,
+            "name": "Test multiple choice",
+            "categoryItems": [],
+            "sort": 57
+          }
+        ],
+        "roomId": 58209,
+        "room": "Room 1",
+        "liveUrl": null,
+        "recordingUrl": null,
+        "status": "Accepted",
+        "isInformed": true,
+        "isConfirmed": true
+      },
+      {
+        "questionAnswers": [
+          {
+            "id": 143673,
+            "question": "Test file upload",
+            "questionType": "File_upload",
+            "answer": null,
+            "sort": 58,
+            "answerExtra": null
+          },
+          {
+            "id": 143674,
+            "question": "Test web address",
+            "questionType": "Web_address",
+            "answer": null,
+            "sort": 59,
+            "answerExtra": null
+          },
+          {
+            "id": 143675,
+            "question": "Test checkbox",
+            "questionType": "Checkbox",
+            "answer": null,
+            "sort": 60,
+            "answerExtra": null
+          },
+          {
+            "id": 143676,
+            "question": "Test unchecked checkbox",
+            "questionType": "Checkbox",
+            "answer": null,
+            "sort": 61,
+            "answerExtra": null
+          },
+          {
+            "id": 143677,
+            "question": "Test email address",
+            "questionType": "Email_address",
+            "answer": null,
+            "sort": 62,
+            "answerExtra": null
+          },
+          {
+            "id": 143678,
+            "question": "Test long text",
+            "questionType": "Long_Text",
+            "answer": null,
+            "sort": 63,
+            "answerExtra": null
+          },
+          {
+            "id": 143679,
+            "question": "Test integer",
+            "questionType": "Integer",
+            "answer": null,
+            "sort": 64,
+            "answerExtra": null
+          }
+        ],
+        "id": "866240",
+        "title": "Beyond Functionality: Performance Testing with Grafana k6",
+        "description": "“A high-end coffee machine that takes 30 minutes to brew a cup won’t keep software engineers productive.”\r\nIn software development, Non-Functional Requirements (NFRs) ensure an application is not just functional but also scalable, reliable, and performant. To validate these, NFR Testing is essential, with performance testing playing a key role.\r\nThis session explores Grafana k6, an open-source tool for performance testing, particularly for applications built on low-code platforms. We’ll cover defining performance test scenarios based on NFRs, writing and running k6 tests for load, stress, and soak testing, analyzing performance metrics in k6 and Grafana, and overcoming challenges unique to low-code applications. A real-world case study will highlight k6 in action, revealing key insights and optimizations. Attendees will leave with practical strategies to integrate k6 into CI/CD pipelines and improve application resilience.\r\n",
+        "startsAt": "2025-04-24T13:40:00",
+        "endsAt": "2025-04-24T14:15:00",
+        "isServiceSession": false,
+        "isPlenumSession": false,
+        "speakers": [
+          {
+            "id": "234b8cfa-3339-4e73-86f4-c674623eb264",
+            "name": "Dániel Mohácsi"
+          }
+        ],
+        "categories": [
+          {
+            "id": 143671,
+            "name": "Test single choice",
+            "categoryItems": [],
+            "sort": 56
+          },
+          {
+            "id": 143672,
+            "name": "Test multiple choice",
+            "categoryItems": [],
+            "sort": 57
+          }
+        ],
+        "roomId": 58210,
+        "room": "Room 2",
+        "liveUrl": null,
+        "recordingUrl": null,
+        "status": "Accepted",
+        "isInformed": true,
+        "isConfirmed": true
+      },
+      {
+        "questionAnswers": [
+          {
+            "id": 143673,
+            "question": "Test file upload",
+            "questionType": "File_upload",
+            "answer": null,
+            "sort": 58,
+            "answerExtra": null
+          },
+          {
+            "id": 143674,
+            "question": "Test web address",
+            "questionType": "Web_address",
+            "answer": null,
+            "sort": 59,
+            "answerExtra": null
+          },
+          {
+            "id": 143675,
+            "question": "Test checkbox",
+            "questionType": "Checkbox",
+            "answer": null,
+            "sort": 60,
+            "answerExtra": null
+          },
+          {
+            "id": 143676,
+            "question": "Test unchecked checkbox",
+            "questionType": "Checkbox",
+            "answer": null,
+            "sort": 61,
+            "answerExtra": null
+          },
+          {
+            "id": 143677,
+            "question": "Test email address",
+            "questionType": "Email_address",
+            "answer": null,
+            "sort": 62,
+            "answerExtra": null
+          },
+          {
+            "id": 143678,
+            "question": "Test long text",
+            "questionType": "Long_Text",
+            "answer": null,
+            "sort": 63,
+            "answerExtra": null
+          },
+          {
+            "id": 143679,
+            "question": "Test integer",
+            "questionType": "Integer",
+            "answer": null,
+            "sort": 64,
+            "answerExtra": null
+          }
+        ],
+        "id": "838919",
+        "title": "What agent to trust with your k8s: Falco, Tetragon or KubeArmor?",
+        "description": "In the CNCF landscape we have plenty of ebpf based security solutions that help us protect our k8s cluster from runtime vulnerabilities. On paper though Falco, Tetragon and KubeArmor look very similar. Eventually you have to make a choice on which one best fits your needs.\r\nTo give you additional insights to make your decision join this session. \r\nWe have run extensive benchmarks against those three solutions and will answer the following questions that came out of our testing: \r\n-\tWhat are the different featuresets?\r\n-\t What about the performance impact of each agent? \r\n-\tWhich privileges does each solution need? \r\n-\tWhat are the pros and cons across the three options?\r\n",
+        "startsAt": "2025-04-24T14:15:00",
+        "endsAt": "2025-04-24T14:50:00",
+        "isServiceSession": false,
+        "isPlenumSession": false,
+        "speakers": [
+          {
+            "id": "9d8a7f7c-68fd-4855-bcf9-881c24af40ee",
+            "name": "Henrik Rexed"
+          }
+        ],
+        "categories": [
+          {
+            "id": 143671,
+            "name": "Test single choice",
+            "categoryItems": [],
+            "sort": 56
+          },
+          {
+            "id": 143672,
+            "name": "Test multiple choice",
+            "categoryItems": [],
+            "sort": 57
+          }
+        ],
+        "roomId": 58209,
+        "room": "Room 1",
+        "liveUrl": null,
+        "recordingUrl": null,
+        "status": "Accepted",
+        "isInformed": true,
+        "isConfirmed": true
+      },
+      {
+        "questionAnswers": [
+          {
+            "id": 143673,
+            "question": "Test file upload",
+            "questionType": "File_upload",
+            "answer": null,
+            "sort": 58,
+            "answerExtra": null
+          },
+          {
+            "id": 143674,
+            "question": "Test web address",
+            "questionType": "Web_address",
+            "answer": null,
+            "sort": 59,
+            "answerExtra": null
+          },
+          {
+            "id": 143675,
+            "question": "Test checkbox",
+            "questionType": "Checkbox",
+            "answer": null,
+            "sort": 60,
+            "answerExtra": null
+          },
+          {
+            "id": 143676,
+            "question": "Test unchecked checkbox",
+            "questionType": "Checkbox",
+            "answer": null,
+            "sort": 61,
+            "answerExtra": null
+          },
+          {
+            "id": 143677,
+            "question": "Test email address",
+            "questionType": "Email_address",
+            "answer": null,
+            "sort": 62,
+            "answerExtra": null
+          },
+          {
+            "id": 143678,
+            "question": "Test long text",
+            "questionType": "Long_Text",
+            "answer": null,
+            "sort": 63,
+            "answerExtra": null
+          },
+          {
+            "id": 143679,
+            "question": "Test integer",
+            "questionType": "Integer",
+            "answer": null,
+            "sort": 64,
+            "answerExtra": null
+          }
+        ],
+        "id": "837964",
+        "title": "The Future of Kubernetes Admission Logic",
+        "description": "Dynamic admission controllers have long played a pivotal role in enhancing the robustness and adaptability of clusters. For instance, ValidatingWebhookConfiguration empowers users to implement finely-tuned access controls beyond the capabilities of RBAC and MutatingWebhookConfiguration provides advanced defaulting logic for all resource. However, this often comes at a price – the ease with which they can be misconfigured, potentially leading to cluster disruption and downtime.\r\n\r\nHistorically, we’ve accepted this fragility as an inevitable trade-off for greater control over our clusters. But that ends now!\r\n\r\nEnter CEL-based, in-process Admission Policies!\r\n\r\nIn this talk we’ll look at what makes ValidatingAdmissionPolicies and MutatingAdmissionPolicies a safer choice, we will dive into the features & limitations and draw comparisons with their webhook-based alternatives, highlighting problems they solve. Finally, we’ll walkthrough how you can leveraging them today and look at the future.",
+        "startsAt": "2025-04-24T14:15:00",
+        "endsAt": "2025-04-24T14:50:00",
+        "isServiceSession": false,
+        "isPlenumSession": false,
+        "speakers": [
+          {
+            "id": "b44f65fd-6449-47e4-a00f-2b308ec3e8bf",
+            "name": "Marcus Noble"
+          }
+        ],
+        "categories": [
+          {
+            "id": 143671,
+            "name": "Test single choice",
+            "categoryItems": [],
+            "sort": 56
+          },
+          {
+            "id": 143672,
+            "name": "Test multiple choice",
+            "categoryItems": [],
+            "sort": 57
+          }
+        ],
+        "roomId": 58210,
+        "room": "Room 2",
+        "liveUrl": null,
+        "recordingUrl": null,
+        "status": "Accepted",
+        "isInformed": true,
+        "isConfirmed": true
+      },
+      {
+        "questionAnswers": [
+          {
+            "id": 143673,
+            "question": "Test file upload",
+            "questionType": "File_upload",
+            "answer": null,
+            "sort": 58,
+            "answerExtra": null
+          },
+          {
+            "id": 143674,
+            "question": "Test web address",
+            "questionType": "Web_address",
+            "answer": null,
+            "sort": 59,
+            "answerExtra": null
+          },
+          {
+            "id": 143675,
+            "question": "Test checkbox",
+            "questionType": "Checkbox",
+            "answer": null,
+            "sort": 60,
+            "answerExtra": null
+          },
+          {
+            "id": 143676,
+            "question": "Test unchecked checkbox",
+            "questionType": "Checkbox",
+            "answer": null,
+            "sort": 61,
+            "answerExtra": null
+          },
+          {
+            "id": 143677,
+            "question": "Test email address",
+            "questionType": "Email_address",
+            "answer": null,
+            "sort": 62,
+            "answerExtra": null
+          },
+          {
+            "id": 143678,
+            "question": "Test long text",
+            "questionType": "Long_Text",
+            "answer": null,
+            "sort": 63,
+            "answerExtra": null
+          },
+          {
+            "id": 143679,
+            "question": "Test integer",
+            "questionType": "Integer",
+            "answer": null,
+            "sort": 64,
+            "answerExtra": null
+          }
+        ],
+        "id": "866514",
+        "title": "Who left the K8s open again?!",
+        "description": "Another day, another security nightmare—pods running as root, exposed dashboards, and mysterious workloads mining crypto. Sound familiar? Kubernetes is a powerhouse for container orchestration, but with great power comes great misconfigurations.\r\n\r\nIn this session, we’ll dive into the CIS Kubernetes Benchmark, a widely recognized security standard that offers best practices for securing Kubernetes environments. We'll explore real-world security pitfalls, how attackers exploit them (yes, even yours!), and actionable best practices to lock down your environment. Expect battle-tested insights on:\r\n\r\nCommon Kubernetes security mistakes (and how to avoid them)\r\nHow the CIS Benchmark helps prevent breaches\r\nLive examples of vulnerabilities & real-world remediations\r\nBest practices for securing clusters, workloads, and policies\r\n\r\nThis session will equip you with practical knowledge to keep your K8s from becoming an open buffet for attackers.",
+        "startsAt": "2025-04-24T14:50:00",
+        "endsAt": "2025-04-24T15:25:00",
+        "isServiceSession": false,
+        "isPlenumSession": false,
+        "speakers": [
+          {
+            "id": "f7ff3341-9e0c-45b1-a9ec-a596c6658c64",
+            "name": "Rafael Natali"
+          }
+        ],
+        "categories": [
+          {
+            "id": 143671,
+            "name": "Test single choice",
+            "categoryItems": [],
+            "sort": 56
+          },
+          {
+            "id": 143672,
+            "name": "Test multiple choice",
+            "categoryItems": [],
+            "sort": 57
+          }
+        ],
+        "roomId": 58209,
+        "room": "Room 1",
+        "liveUrl": null,
+        "recordingUrl": null,
+        "status": "Accepted",
+        "isInformed": true,
+        "isConfirmed": true
+      },
+      {
+        "questionAnswers": [
+          {
+            "id": 143673,
+            "question": "Test file upload",
+            "questionType": "File_upload",
+            "answer": null,
+            "sort": 58,
+            "answerExtra": null
+          },
+          {
+            "id": 143674,
+            "question": "Test web address",
+            "questionType": "Web_address",
+            "answer": null,
+            "sort": 59,
+            "answerExtra": null
+          },
+          {
+            "id": 143675,
+            "question": "Test checkbox",
+            "questionType": "Checkbox",
+            "answer": null,
+            "sort": 60,
+            "answerExtra": null
+          },
+          {
+            "id": 143676,
+            "question": "Test unchecked checkbox",
+            "questionType": "Checkbox",
+            "answer": null,
+            "sort": 61,
+            "answerExtra": null
+          },
+          {
+            "id": 143677,
+            "question": "Test email address",
+            "questionType": "Email_address",
+            "answer": null,
+            "sort": 62,
+            "answerExtra": null
+          },
+          {
+            "id": 143678,
+            "question": "Test long text",
+            "questionType": "Long_Text",
+            "answer": null,
+            "sort": 63,
+            "answerExtra": null
+          },
+          {
+            "id": 143679,
+            "question": "Test integer",
+            "questionType": "Integer",
+            "answer": null,
+            "sort": 64,
+            "answerExtra": null
+          }
+        ],
+        "id": "860568",
+        "title": "Kubernetes logging: to infinity and beyond",
+        "description": "Managing change in widely-adopted open source projects has unique challenges. Modernizing core functionalities is like changing the engine of a moving car—how do you ensure a smooth ride for users?\r\nThis session explores how we modernized the Logging-operator (a CNCF sandbox project). We'll dive into how we:\r\n\r\n- Transitioned from Fluentd+Fluentbit to OpenTelemetry collectors\r\n- Implemented true multi-tenancy with the Telemetry Controller    \r\n- Ensured seamless adoption for users including major adopters like Rancher\r\n\r\nThe presentation includes technical demonstrations and architectural insights for Kubernetes operators, platform engineers, and open-source maintainers, so you’ll learn:\r\n\r\n- How to gradually adopt a modern logging architecture using OpenTelemetry collectors in an existing infrastructure without disrupting your current setups\r\n- Strategies for evolving production-grade Kubernetes operators without disrupting users\r\n",
+        "startsAt": "2025-04-24T14:50:00",
+        "endsAt": "2025-04-24T15:25:00",
+        "isServiceSession": false,
+        "isPlenumSession": false,
+        "speakers": [
+          {
+            "id": "ff8642ba-f94c-4640-8a8c-7d4cc3e1cb9d",
+            "name": "Bence Csati"
+          }
+        ],
+        "categories": [
+          {
+            "id": 143671,
+            "name": "Test single choice",
+            "categoryItems": [],
+            "sort": 56
+          },
+          {
+            "id": 143672,
+            "name": "Test multiple choice",
+            "categoryItems": [],
+            "sort": 57
+          }
+        ],
+        "roomId": 58210,
+        "room": "Room 2",
+        "liveUrl": null,
+        "recordingUrl": null,
+        "status": "Accepted",
+        "isInformed": true,
+        "isConfirmed": true
+      },
+      {
+        "questionAnswers": [
+          {
+            "id": 143673,
+            "question": "Test file upload",
+            "questionType": "File_upload",
+            "answer": null,
+            "sort": 58,
+            "answerExtra": null
+          },
+          {
+            "id": 143674,
+            "question": "Test web address",
+            "questionType": "Web_address",
+            "answer": null,
+            "sort": 59,
+            "answerExtra": null
+          },
+          {
+            "id": 143675,
+            "question": "Test checkbox",
+            "questionType": "Checkbox",
+            "answer": null,
+            "sort": 60,
+            "answerExtra": null
+          },
+          {
+            "id": 143676,
+            "question": "Test unchecked checkbox",
+            "questionType": "Checkbox",
+            "answer": null,
+            "sort": 61,
+            "answerExtra": null
+          },
+          {
+            "id": 143677,
+            "question": "Test email address",
+            "questionType": "Email_address",
+            "answer": null,
+            "sort": 62,
+            "answerExtra": null
+          },
+          {
+            "id": 143678,
+            "question": "Test long text",
+            "questionType": "Long_Text",
+            "answer": null,
+            "sort": 63,
+            "answerExtra": null
+          },
+          {
+            "id": 143679,
+            "question": "Test integer",
+            "questionType": "Integer",
+            "answer": null,
+            "sort": 64,
+            "answerExtra": null
+          }
+        ],
+        "id": "856536",
+        "title": "Mainframes Aren’t Dead, They’re Just Running Kubernetes Now",
+        "description": "Mainframes have been declared dead more times than JavaScript frameworks have been invented—but here they are, still running the backbone of global finance, government, and enterprise computing. And now? They’re running Kubernetes too.\r\n\r\nThis talk dives into the why and how of running Kubernetes on mainframes, from containerization on z/OS to networking, workload orchestration, and real-world use cases. We’ll break down the challenges, the benefits, and whether this is a clever hack or a genuinely viable approach for modern infrastructure. If you think mainframes are relics, think again—because they’re running microservices now.",
+        "startsAt": "2025-04-24T15:45:00",
+        "endsAt": "2025-04-24T16:20:00",
+        "isServiceSession": false,
+        "isPlenumSession": false,
+        "speakers": [
+          {
+            "id": "d3d8fe2f-75b5-49ed-9acd-df685492e32c",
+            "name": "Josephine Pfeiffer"
+          }
+        ],
+        "categories": [
+          {
+            "id": 143671,
+            "name": "Test single choice",
+            "categoryItems": [],
+            "sort": 56
+          },
+          {
+            "id": 143672,
+            "name": "Test multiple choice",
+            "categoryItems": [],
+            "sort": 57
+          }
+        ],
+        "roomId": 58209,
+        "room": "Room 1",
+        "liveUrl": null,
+        "recordingUrl": null,
+        "status": "Accepted",
+        "isInformed": true,
+        "isConfirmed": true
+      },
+      {
+        "questionAnswers": [
+          {
+            "id": 143673,
+            "question": "Test file upload",
+            "questionType": "File_upload",
+            "answer": null,
+            "sort": 58,
+            "answerExtra": null
+          },
+          {
+            "id": 143674,
+            "question": "Test web address",
+            "questionType": "Web_address",
+            "answer": null,
+            "sort": 59,
+            "answerExtra": null
+          },
+          {
+            "id": 143675,
+            "question": "Test checkbox",
+            "questionType": "Checkbox",
+            "answer": null,
+            "sort": 60,
+            "answerExtra": null
+          },
+          {
+            "id": 143676,
+            "question": "Test unchecked checkbox",
+            "questionType": "Checkbox",
+            "answer": null,
+            "sort": 61,
+            "answerExtra": null
+          },
+          {
+            "id": 143677,
+            "question": "Test email address",
+            "questionType": "Email_address",
+            "answer": null,
+            "sort": 62,
+            "answerExtra": null
+          },
+          {
+            "id": 143678,
+            "question": "Test long text",
+            "questionType": "Long_Text",
+            "answer": null,
+            "sort": 63,
+            "answerExtra": null
+          },
+          {
+            "id": 143679,
+            "question": "Test integer",
+            "questionType": "Integer",
+            "answer": null,
+            "sort": 64,
+            "answerExtra": null
+          }
+        ],
+        "id": "831948",
+        "title": "Secret Rotation with External Secrets Operator",
+        "description": "ESO is one of the leaders in handling secrets in Kubernetes clusters from external sources. Boasting over 30 providers, it can fetch or push secrets to many sources.\r\n\r\nWith Generators, ESO can create ephemeral secrets that can be used on the spot and then throws away and regenerated on need again. Generator use existing providers that the user already has in their systems such as AWS STS token, Vault Dynamic Secret, GCR Token, the list goes on.\r\n\r\nOnce a Generator is configured and an External Secret or a Push Secret is using the generator it will generate a new access secret on the given interval. This allows for powerful secure operations across the entire cluster.\r\n\r\nThis talk will detail how this can be achieved with existing open source tooling.",
+        "startsAt": "2025-04-24T15:45:00",
+        "endsAt": "2025-04-24T16:20:00",
+        "isServiceSession": false,
+        "isPlenumSession": false,
+        "speakers": [
+          {
+            "id": "e3d59997-3f6f-4603-a5be-f12a833cbbdc",
+            "name": "Gergely Brautigam"
+          }
+        ],
+        "categories": [
+          {
+            "id": 143671,
+            "name": "Test single choice",
+            "categoryItems": [],
+            "sort": 56
+          },
+          {
+            "id": 143672,
+            "name": "Test multiple choice",
+            "categoryItems": [],
+            "sort": 57
+          }
+        ],
+        "roomId": 58210,
+        "room": "Room 2",
+        "liveUrl": null,
+        "recordingUrl": null,
+        "status": "Accepted",
+        "isInformed": true,
+        "isConfirmed": true
+      },
+      {
+        "questionAnswers": [
+          {
+            "id": 143673,
+            "question": "Test file upload",
+            "questionType": "File_upload",
+            "answer": null,
+            "sort": 58,
+            "answerExtra": null
+          },
+          {
+            "id": 143674,
+            "question": "Test web address",
+            "questionType": "Web_address",
+            "answer": null,
+            "sort": 59,
+            "answerExtra": null
+          },
+          {
+            "id": 143675,
+            "question": "Test checkbox",
+            "questionType": "Checkbox",
+            "answer": null,
+            "sort": 60,
+            "answerExtra": null
+          },
+          {
+            "id": 143676,
+            "question": "Test unchecked checkbox",
+            "questionType": "Checkbox",
+            "answer": null,
+            "sort": 61,
+            "answerExtra": null
+          },
+          {
+            "id": 143677,
+            "question": "Test email address",
+            "questionType": "Email_address",
+            "answer": null,
+            "sort": 62,
+            "answerExtra": null
+          },
+          {
+            "id": 143678,
+            "question": "Test long text",
+            "questionType": "Long_Text",
+            "answer": null,
+            "sort": 63,
+            "answerExtra": null
+          },
+          {
+            "id": 143679,
+            "question": "Test integer",
+            "questionType": "Integer",
+            "answer": null,
+            "sort": 64,
+            "answerExtra": null
+          }
+        ],
+        "id": "853143",
+        "title": "Delete all Dockerfiles",
+        "description": "Writing a good Dockerfiles is hard enough, teaching others how to do it and keeping it maintained is even harder. So how can you possibly keep touch with multiple teams spinning dozens of projects each? Of course you abstract and metaprogram! But how to avoid NIH syndrome then?\r\n\r\nThis talk will be about pitfalls of independent fullstack teams dockerizing their applications and showcase the open source solution that's in line with Platform Engineering - Cloud Native Buildpacks. \r\n\r\nWe will define what is a \"Production Ready Container\" for everybody and how to trigger its build with one command. I will show how easy it will be to add or expand the technology stacks that you maintain - so you won't need to hunt multiple repositories to change the Dockerfiles in each of them. ",
+        "startsAt": "2025-04-24T16:20:00",
+        "endsAt": "2025-04-24T16:55:00",
+        "isServiceSession": false,
+        "isPlenumSession": false,
+        "speakers": [
+          {
+            "id": "83450c3f-0268-4c22-b275-41ccb5ee08d6",
+            "name": "Piotr Trębacz"
+          }
+        ],
+        "categories": [
+          {
+            "id": 143671,
+            "name": "Test single choice",
+            "categoryItems": [],
+            "sort": 56
+          },
+          {
+            "id": 143672,
+            "name": "Test multiple choice",
+            "categoryItems": [],
+            "sort": 57
+          }
+        ],
+        "roomId": 58210,
+        "room": "Room 2",
+        "liveUrl": null,
+        "recordingUrl": null,
+        "status": "Accepted",
+        "isInformed": true,
+        "isConfirmed": true
+      },
+      {
+        "questionAnswers": [
+          {
+            "id": 143673,
+            "question": "Test file upload",
+            "questionType": "File_upload",
+            "answer": null,
+            "sort": 58,
+            "answerExtra": null
+          },
+          {
+            "id": 143674,
+            "question": "Test web address",
+            "questionType": "Web_address",
+            "answer": null,
+            "sort": 59,
+            "answerExtra": null
+          },
+          {
+            "id": 143675,
+            "question": "Test checkbox",
+            "questionType": "Checkbox",
+            "answer": null,
+            "sort": 60,
+            "answerExtra": null
+          },
+          {
+            "id": 143676,
+            "question": "Test unchecked checkbox",
+            "questionType": "Checkbox",
+            "answer": null,
+            "sort": 61,
+            "answerExtra": null
+          },
+          {
+            "id": 143677,
+            "question": "Test email address",
+            "questionType": "Email_address",
+            "answer": null,
+            "sort": 62,
+            "answerExtra": null
+          },
+          {
+            "id": 143678,
+            "question": "Test long text",
+            "questionType": "Long_Text",
+            "answer": null,
+            "sort": 63,
+            "answerExtra": null
+          },
+          {
+            "id": 143679,
+            "question": "Test integer",
+            "questionType": "Integer",
+            "answer": null,
+            "sort": 64,
+            "answerExtra": null
+          }
+        ],
+        "id": "855661",
+        "title": "Keeping Kubernetes Clusters Up-to-Date Across Multiple Cloud Providers",
+        "description": "Managing hundreds of nodes across a multi-cloud environment is no small feat. In this talk, I'll share our journey of evolving a complex Kubernetes landscape into a streamlined, agile ecosystem using GitOps. Learn how we automate updates across clusters, integrate GPU workloads, manage secrets securely, and plan for the dynamic challenges of multi-cloud deployments—all while maintaining reliability and scalability.\r\n\r\nDrawing on real-world examples and hands-on insights, I’ll walk you through our strategies and lessons learned. Whether you're a developer aiming to adopt GitOps or a cloud architect tasked with modernizing infrastructure, you'll discover actionable best practices and tools that can be adapted to your own environments.",
+        "startsAt": "2025-04-24T16:55:00",
+        "endsAt": "2025-04-24T17:30:00",
+        "isServiceSession": false,
+        "isPlenumSession": false,
+        "speakers": [
+          {
+            "id": "c1e3a488-2ca2-4299-936d-26e91b7013a6",
+            "name": "Janos Binder"
+          }
+        ],
+        "categories": [
+          {
+            "id": 143671,
+            "name": "Test single choice",
+            "categoryItems": [],
+            "sort": 56
+          },
+          {
+            "id": 143672,
+            "name": "Test multiple choice",
+            "categoryItems": [],
+            "sort": 57
+          }
+        ],
+        "roomId": 58209,
+        "room": "Room 1",
+        "liveUrl": null,
+        "recordingUrl": null,
+        "status": "Accepted",
+        "isInformed": true,
+        "isConfirmed": true
+      },
+      {
+        "questionAnswers": [
+          {
+            "id": 143673,
+            "question": "Test file upload",
+            "questionType": "File_upload",
+            "answer": null,
+            "sort": 58,
+            "answerExtra": null
+          },
+          {
+            "id": 143674,
+            "question": "Test web address",
+            "questionType": "Web_address",
+            "answer": null,
+            "sort": 59,
+            "answerExtra": null
+          },
+          {
+            "id": 143675,
+            "question": "Test checkbox",
+            "questionType": "Checkbox",
+            "answer": null,
+            "sort": 60,
+            "answerExtra": null
+          },
+          {
+            "id": 143676,
+            "question": "Test unchecked checkbox",
+            "questionType": "Checkbox",
+            "answer": null,
+            "sort": 61,
+            "answerExtra": null
+          },
+          {
+            "id": 143677,
+            "question": "Test email address",
+            "questionType": "Email_address",
+            "answer": null,
+            "sort": 62,
+            "answerExtra": null
+          },
+          {
+            "id": 143678,
+            "question": "Test long text",
+            "questionType": "Long_Text",
+            "answer": null,
+            "sort": 63,
+            "answerExtra": null
+          },
+          {
+            "id": 143679,
+            "question": "Test integer",
+            "questionType": "Integer",
+            "answer": null,
+            "sort": 64,
+            "answerExtra": null
+          }
+        ],
+        "id": "863256",
+        "title": "Model inferencing on Kubernetes with KServe",
+        "description": "Deploying machine learning models requires an efficient serving infrastructure. In this session, we’ll explore KServe, a powerful Kubernetes-native solution for model inferencing. You'll learn how KServe simplifies model deployment, lightning-fast inference, monitoring, cost optimization while supporting multiple frameworks like Scikit-Learn, TensorFlow, PyTorch, LightGBM, Paddle, PMML, Spark MLib, XBoost and ONNX. It also enables their users to deploy large language models (LLMs) from Huggingface. This open source project provides a simple, pluggable solution for common infrastructure issues with inference models, like GPU scaling and ModelMesh serving for high volume/density use cases.\r\nWhether you’re an ML engineer, DevOps expert, or AI leader, this session will equip you with the best practices and hands-on insights to take your model serving to the next level.",
+        "startsAt": "2025-04-24T16:55:00",
+        "endsAt": "2025-04-24T17:30:00",
+        "isServiceSession": false,
+        "isPlenumSession": false,
+        "speakers": [
+          {
+            "id": "01019678-a2f8-4c56-9139-4ad5d791fa45",
+            "name": "Peter Cseh"
+          },
+          {
+            "id": "fc6e230e-5fee-4b4c-b2dd-5cd06ec0a021",
+            "name": "Gábor Lovass"
+          }
+        ],
+        "categories": [
+          {
+            "id": 143671,
+            "name": "Test single choice",
+            "categoryItems": [],
+            "sort": 56
+          },
+          {
+            "id": 143672,
+            "name": "Test multiple choice",
+            "categoryItems": [],
+            "sort": 57
+          }
+        ],
+        "roomId": 58210,
+        "room": "Room 2",
+        "liveUrl": null,
+        "recordingUrl": null,
+        "status": "Accepted",
+        "isInformed": true,
+        "isConfirmed": true
+      },
+      {
+        "questionAnswers": [
+          {
+            "id": 143673,
+            "question": "Test file upload",
+            "questionType": "File_upload",
+            "answer": null,
+            "sort": 58,
+            "answerExtra": null
+          },
+          {
+            "id": 143674,
+            "question": "Test web address",
+            "questionType": "Web_address",
+            "answer": null,
+            "sort": 59,
+            "answerExtra": null
+          },
+          {
+            "id": 143675,
+            "question": "Test checkbox",
+            "questionType": "Checkbox",
+            "answer": null,
+            "sort": 60,
+            "answerExtra": null
+          },
+          {
+            "id": 143676,
+            "question": "Test unchecked checkbox",
+            "questionType": "Checkbox",
+            "answer": null,
+            "sort": 61,
+            "answerExtra": null
+          },
+          {
+            "id": 143677,
+            "question": "Test email address",
+            "questionType": "Email_address",
+            "answer": null,
+            "sort": 62,
+            "answerExtra": null
+          },
+          {
+            "id": 143678,
+            "question": "Test long text",
+            "questionType": "Long_Text",
+            "answer": null,
+            "sort": 63,
+            "answerExtra": null
+          },
+          {
+            "id": 143679,
+            "question": "Test integer",
+            "questionType": "Integer",
+            "answer": null,
+            "sort": 64,
+            "answerExtra": null
+          }
+        ],
+        "id": "861566",
+        "title": "cert-manager in action: real-world use cases and solutions",
+        "description": "In today's digital landscape, securing communication between services is imperative. As organizations increasingly adopt Kubernetes for their infrastructure needs, managing SSL/TLS certificates efficiently becomes crucial. Enter cert-manager, a powerful CNCF tool designed to automate the management and issuance of certificates within Kubernetes clusters.\r\n\r\nKey takeaways from this session include:\r\nUnderstanding the fundamentals of cert-manager and its role in Kubernetes security.\r\nStep-by-step guidance on deploying cert-manager in your cluster.\r\nBest practices for automating certificate issuance and renewal.\r\nReal-world examples and case studies showcasing the benefits of cert-manager.\r\n\r\nBy the end of this session, you'll have the knowledge and confidence to implement cert-manager in your Kubernetes environment, ensuring secure and efficient management of your SSL/TLS certificates.",
+        "startsAt": "2025-04-24T17:40:00",
+        "endsAt": "2025-04-24T17:45:00",
+        "isServiceSession": false,
+        "isPlenumSession": true,
+        "speakers": [
+          {
+            "id": "b80ca810-a659-4668-ada1-7a94c5f834ea",
+            "name": "Miguel Martinho"
+          }
+        ],
+        "categories": [
+          {
+            "id": 143671,
+            "name": "Test single choice",
+            "categoryItems": [],
+            "sort": 56
+          },
+          {
+            "id": 143672,
+            "name": "Test multiple choice",
+            "categoryItems": [],
+            "sort": 57
+          }
+        ],
+        "roomId": 58209,
+        "room": "Room 1",
+        "liveUrl": null,
+        "recordingUrl": null,
+        "status": "Accepted",
+        "isInformed": true,
+        "isConfirmed": true
+      },
+      {
+        "questionAnswers": [
+          {
+            "id": 143673,
+            "question": "Test file upload",
+            "questionType": "File_upload",
+            "answer": null,
+            "sort": 58,
+            "answerExtra": null
+          },
+          {
+            "id": 143674,
+            "question": "Test web address",
+            "questionType": "Web_address",
+            "answer": null,
+            "sort": 59,
+            "answerExtra": null
+          },
+          {
+            "id": 143675,
+            "question": "Test checkbox",
+            "questionType": "Checkbox",
+            "answer": null,
+            "sort": 60,
+            "answerExtra": null
+          },
+          {
+            "id": 143676,
+            "question": "Test unchecked checkbox",
+            "questionType": "Checkbox",
+            "answer": null,
+            "sort": 61,
+            "answerExtra": null
+          },
+          {
+            "id": 143677,
+            "question": "Test email address",
+            "questionType": "Email_address",
+            "answer": null,
+            "sort": 62,
+            "answerExtra": null
+          },
+          {
+            "id": 143678,
+            "question": "Test long text",
+            "questionType": "Long_Text",
+            "answer": null,
+            "sort": 63,
+            "answerExtra": null
+          },
+          {
+            "id": 143679,
+            "question": "Test integer",
+            "questionType": "Integer",
+            "answer": null,
+            "sort": 64,
+            "answerExtra": null
+          }
+        ],
+        "id": "863407",
+        "title": "Real-Time AI Voice Assistants in Kubernetes",
+        "description": "AI voice assistants are transforming industries by enabling real-time, human-like interactions at scale, from call centers and healthcare to AI tutors and smart homes. The key to success is ultra-low latency, ensuring seamless and natural conversations via real-time audio processing.\r\n\r\nWebRTC, an open standard for real-time communication, minimizes delays and ensures broad device compatibility. However, deploying an AI voice assistant in-house is complex and results in an inherent microservice architecture with WebRTC media and signaling servers, AI inference services, authentication, databases, and monitoring. Such a pipeline suits Kubernetes well in managing complexity and offering scalability, resilience, and compliance, which are vital for industries like healthcare and finance.\r\n\r\nThe lightning talk showcases a self-hosted AI voice agent on Kubernetes using open-source tools: LiveKit (WebRTC media server), LiveKit Agents (process audio for AI), and STUNner (Kubernetes media gateway).",
+        "startsAt": "2025-04-24T17:45:00",
+        "endsAt": "2025-04-24T17:50:00",
+        "isServiceSession": false,
+        "isPlenumSession": true,
+        "speakers": [
+          {
+            "id": "e85e1e80-f5d2-41f5-8c98-e847304848c7",
+            "name": "Tamás Lévai"
+          }
+        ],
+        "categories": [
+          {
+            "id": 143671,
+            "name": "Test single choice",
+            "categoryItems": [],
+            "sort": 56
+          },
+          {
+            "id": 143672,
+            "name": "Test multiple choice",
+            "categoryItems": [],
+            "sort": 57
+          }
+        ],
+        "roomId": 58209,
+        "room": "Room 1",
+        "liveUrl": null,
+        "recordingUrl": null,
+        "status": "Accepted",
+        "isInformed": true,
+        "isConfirmed": true
+      },
+      {
+        "questionAnswers": [
+          {
+            "id": 143673,
+            "question": "Test file upload",
+            "questionType": "File_upload",
+            "answer": null,
+            "sort": 58,
+            "answerExtra": null
+          },
+          {
+            "id": 143674,
+            "question": "Test web address",
+            "questionType": "Web_address",
+            "answer": null,
+            "sort": 59,
+            "answerExtra": null
+          },
+          {
+            "id": 143675,
+            "question": "Test checkbox",
+            "questionType": "Checkbox",
+            "answer": null,
+            "sort": 60,
+            "answerExtra": null
+          },
+          {
+            "id": 143676,
+            "question": "Test unchecked checkbox",
+            "questionType": "Checkbox",
+            "answer": null,
+            "sort": 61,
+            "answerExtra": null
+          },
+          {
+            "id": 143677,
+            "question": "Test email address",
+            "questionType": "Email_address",
+            "answer": null,
+            "sort": 62,
+            "answerExtra": null
+          },
+          {
+            "id": 143678,
+            "question": "Test long text",
+            "questionType": "Long_Text",
+            "answer": null,
+            "sort": 63,
+            "answerExtra": null
+          },
+          {
+            "id": 143679,
+            "question": "Test integer",
+            "questionType": "Integer",
+            "answer": null,
+            "sort": 64,
+            "answerExtra": null
+          }
+        ],
+        "id": "863515",
+        "title": "Rethinking Multi-Tenant Architectures with Kubernetes and Traefik",
+        "description": "Managing multi-tenant architectures can be challenging, especially when each tenant requires isolated and customizable environments. This talk will share how the presenter’s team transitioned from a centralized middleware solution to a more flexible, tenant-specific architecture using Kubernetes and Traefik. By assigning each tenant its own dedicated Traefik instance behind an Application Load Balancer, they achieved better separation, scalability, and flexibility.\r\n\r\nThe presentation will focus on the architectural decisions and technical challenges faced during the migration. It will also briefly touch on how existing middleware logic was adapted to fit the new setup. Attendees will gain insights into designing scalable and maintainable multi-tenant systems in Kubernetes-based environments, with actionable takeaways for their own projects.",
+        "startsAt": "2025-04-24T17:50:00",
+        "endsAt": "2025-04-24T17:55:00",
+        "isServiceSession": false,
+        "isPlenumSession": true,
+        "speakers": [
+          {
+            "id": "5a7c0b0c-2ebd-45e3-98ee-50696cadb9cb",
+            "name": "Marcell Bene"
+          }
+        ],
+        "categories": [
+          {
+            "id": 143671,
+            "name": "Test single choice",
+            "categoryItems": [],
+            "sort": 56
+          },
+          {
+            "id": 143672,
+            "name": "Test multiple choice",
+            "categoryItems": [],
+            "sort": 57
+          }
+        ],
+        "roomId": 58209,
+        "room": "Room 1",
+        "liveUrl": null,
+        "recordingUrl": null,
+        "status": "Accepted",
+        "isInformed": true,
+        "isConfirmed": true
+      },
+      {
+        "questionAnswers": [
+          {
+            "id": 143673,
+            "question": "Test file upload",
+            "questionType": "File_upload",
+            "answer": null,
+            "sort": 58,
+            "answerExtra": null
+          },
+          {
+            "id": 143674,
+            "question": "Test web address",
+            "questionType": "Web_address",
+            "answer": null,
+            "sort": 59,
+            "answerExtra": null
+          },
+          {
+            "id": 143675,
+            "question": "Test checkbox",
+            "questionType": "Checkbox",
+            "answer": null,
+            "sort": 60,
+            "answerExtra": null
+          },
+          {
+            "id": 143676,
+            "question": "Test unchecked checkbox",
+            "questionType": "Checkbox",
+            "answer": null,
+            "sort": 61,
+            "answerExtra": null
+          },
+          {
+            "id": 143677,
+            "question": "Test email address",
+            "questionType": "Email_address",
+            "answer": null,
+            "sort": 62,
+            "answerExtra": null
+          },
+          {
+            "id": 143678,
+            "question": "Test long text",
+            "questionType": "Long_Text",
+            "answer": null,
+            "sort": 63,
+            "answerExtra": null
+          },
+          {
+            "id": 143679,
+            "question": "Test integer",
+            "questionType": "Integer",
+            "answer": null,
+            "sort": 64,
+            "answerExtra": null
+          }
+        ],
+        "id": "860593",
+        "title": "Starting 2000 Cloud Servers for Benchmarking LLM Inference Speed",
+        "description": "Spare Cores is a vendor-independent, open-source, Python-based ecosystem offering a comprehensive inventory and performance evaluation of thousands of servers across cloud providers. We start all instance types in public (through GitHub Actions) to run hardware inspection tools and benchmarks for different workloads — including general benchmarks (GeekBench, PassMark), memory bandwidth, compression algorithms, OpenSSL speed, Redis, static web serving, and LLM inference speed. The resulting public data and open-source tools (such as database dumps, APIs, and SDKs) help users identify and launch the most cost-efficient instance type for their specific use case in their own cloud environment. This talk highlights our latest benchmarking efforts, including tests on ~2,000 server types to determine the largest LLM models that can be loaded and the inference speeds achievable on both CPUs and GPUs.",
+        "startsAt": "2025-04-24T17:55:00",
+        "endsAt": "2025-04-24T18:00:00",
+        "isServiceSession": false,
+        "isPlenumSession": true,
+        "speakers": [
+          {
+            "id": "8c1601bf-ae06-4f1a-ba4e-77439e6db097",
+            "name": "Gergely Daroczi"
+          }
+        ],
+        "categories": [
+          {
+            "id": 143671,
+            "name": "Test single choice",
+            "categoryItems": [],
+            "sort": 56
+          },
+          {
+            "id": 143672,
+            "name": "Test multiple choice",
+            "categoryItems": [],
+            "sort": 57
+          }
+        ],
+        "roomId": 58209,
+        "room": "Room 1",
+        "liveUrl": null,
+        "recordingUrl": null,
+        "status": "Accepted",
+        "isInformed": true,
+        "isConfirmed": true
+      },
+      {
+        "questionAnswers": [
+          {
+            "id": 143673,
+            "question": "Test file upload",
+            "questionType": "File_upload",
+            "answer": null,
+            "sort": 58,
+            "answerExtra": null
+          },
+          {
+            "id": 143674,
+            "question": "Test web address",
+            "questionType": "Web_address",
+            "answer": null,
+            "sort": 59,
+            "answerExtra": null
+          },
+          {
+            "id": 143675,
+            "question": "Test checkbox",
+            "questionType": "Checkbox",
+            "answer": null,
+            "sort": 60,
+            "answerExtra": null
+          },
+          {
+            "id": 143676,
+            "question": "Test unchecked checkbox",
+            "questionType": "Checkbox",
+            "answer": null,
+            "sort": 61,
+            "answerExtra": null
+          },
+          {
+            "id": 143677,
+            "question": "Test email address",
+            "questionType": "Email_address",
+            "answer": null,
+            "sort": 62,
+            "answerExtra": null
+          },
+          {
+            "id": 143678,
+            "question": "Test long text",
+            "questionType": "Long_Text",
+            "answer": null,
+            "sort": 63,
+            "answerExtra": null
+          },
+          {
+            "id": 143679,
+            "question": "Test integer",
+            "questionType": "Integer",
+            "answer": null,
+            "sort": 64,
+            "answerExtra": null
+          }
+        ],
+        "id": "842899",
+        "title": "Transforming the idea of multitenancy in Kubernetes",
+        "description": "Multitenancy in Kubernetes presents significant challenges, specifically in managing tenant isolation, resource quotas, and operational overhead within shared clusters. As organizations scale their cloud-native workloads, the complexity of managing multiple tenants within Kubernetes clusters becomes evident.\r\n\r\nIn this session we will discuss the limitations of traditional multitenancy models, namely the differences between namespace and cluster based approaches and demonstrate possible solutions that ensure enhanced isolation, scalability, and operational simplicity for multi-tenant environments.\r\n\r\nThe session will also briefly introduce Gardener, an open-source CNCF graduated project, as a potential solution for cluster-based multitenancy. Gardener’s architecture simplifies the lifecycle management of Kubernetes clusters, making it easier to assign tenants to dedicated clusters while maintaining operational efficiency.",
+        "startsAt": "2025-04-24T18:00:00",
+        "endsAt": "2025-04-24T18:05:00",
+        "isServiceSession": false,
+        "isPlenumSession": true,
+        "speakers": [
+          {
+            "id": "d4417e89-bb8b-4bc5-b56b-def94c6a45fc",
+            "name": "Kristóf Nyári"
+          }
+        ],
+        "categories": [
+          {
+            "id": 143671,
+            "name": "Test single choice",
+            "categoryItems": [],
+            "sort": 56
+          },
+          {
+            "id": 143672,
+            "name": "Test multiple choice",
+            "categoryItems": [],
+            "sort": 57
+          }
+        ],
+        "roomId": 58209,
+        "room": "Room 1",
+        "liveUrl": null,
+        "recordingUrl": null,
+        "status": "Accepted",
+        "isInformed": true,
+        "isConfirmed": true
+      }
+    ],
+    "isDefault": false
+  }
+]
